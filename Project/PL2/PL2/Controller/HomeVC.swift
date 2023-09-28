@@ -3101,6 +3101,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
         }
     }
+      
     
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
             let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
