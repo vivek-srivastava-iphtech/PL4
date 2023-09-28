@@ -2472,8 +2472,6 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                         
                         let wd = Int(squareWidth)
                         
-                        let path = UIBezierPath()
-                        
                         let paintCount =  UserDefaults.standard.integer(forKey: paint_count)
                         let isExpired = UserDefaults.standard.value(forKey: "IS_EXPIRED") as? String
                         if (((appDelegate.purchaseType() == .kPurchaseTypeWeekSubscription) && isExpired == "NO") || (appDelegate.purchaseType() == .kPurchaseTypeNonConsumable))
@@ -2515,6 +2513,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                         {
                             
                             let pVal = self.coloredPoints[0]
+                            let path = UIBezierPath()
                             
                             let keyVal = keyForPoint(point: pVal)
                             if let _ = processedPoints[keyVal]
@@ -2532,6 +2531,8 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                                 path.addLine(to: CGPoint(x: (x + wd), y: y))
                                 path.addLine(to: CGPoint(x: (x + wd), y: (y + wd)))
                                 path.addLine(to: CGPoint(x: x, y: (y + wd)))
+                                self.addColorForPath(rectanglePath: path, opacity: 1.0,startPoint: pointV)
+                                path.close()
                                 saveColorRecords(point: pointV, fillColor: fillColor)
                                 //path.addLine(to: CGPoint(x: (x), y: (y - wd)))
                                 
@@ -2545,9 +2546,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                             self.coloredPoints.remove(at: 0)
                             
                         }
-                        
-//                        self.addColorForPath(rectanglePath: path, opacity: 1.0)
-                        path.close()
+                       
                         
                         if(self.isColorCompleted(colorObj: selectedColorWithNumber))
                         {
