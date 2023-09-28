@@ -3153,9 +3153,11 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
     
     func addColorForPath(rectanglePath:UIBezierPath, opacity:Float, startPoint:CGPoint){
         let image = UIImage(named: "yarn")
+        let tintedImage = image?.withRenderingMode(.alwaysTemplate)
         // Create a CALayer for the image
         let imageLayer = CALayer()
-        imageLayer.contents = image?.cgImage
+        imageLayer.contents = tintedImage?.cgImage
+        imageLayer.backgroundColor = selectedColorWithNumber.key.cgColor
         imageLayer.frame = CGRect(x: startPoint.x, y: startPoint.y, width: squareWidth, height: squareWidth)
         imageLayer.zoomInAnimation() {
             print("Animation Added")
@@ -3163,8 +3165,8 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
-        a.strokeColor = selectedColorWithNumber.key.cgColor
-        a.fillColor = selectedColorWithNumber.key.cgColor
+        a.strokeColor = UIColor.clear.cgColor
+        a.fillColor = UIColor.clear.cgColor
         a.opacity = opacity
         
         a.addSublayer(imageLayer)
