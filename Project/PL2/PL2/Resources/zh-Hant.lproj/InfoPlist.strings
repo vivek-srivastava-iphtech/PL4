@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  PL2
+
+  Created by Lynn Liao on 2/6/18.
+  Copyright © 2018 Moo Moo Lab LLC. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "拼豆";
+
+"CFBundleName" = "拼豆";
+
+"NSUserTrackingUsageDescription" = "確保您的應用保持免費並且您看到的廣告是個性化的";
+
+"NSPhotoLibraryUsageDescription" = "以便您保存您的作品, 我們需要照片許可";

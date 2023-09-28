@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DrawViewEntity" representedClassName="DrawViewEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="imageId" optional="YES" attributeType="String"/>
+        <attribute name="lastUpdatedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="pointColorTouple" optional="YES" attributeType="Transformable" customClassName="Data"/>
+        <attribute name="recordData" optional="YES" attributeType="Binary">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordData"/>
+            </userInfo>
+        </attribute>
+        <attribute name="recordID" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordID"/>
+            </userInfo>
+        </attribute>
+    </entity>
+    <entity name="ImageColorEntity" representedClassName="ImageColorEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="colorData" optional="YES" attributeType="Transformable" customClassName="Data"/>
+        <attribute name="imageId" optional="YES" attributeType="String"/>
+        <attribute name="recordData" optional="YES" attributeType="Binary">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordData"/>
+            </userInfo>
+        </attribute>
+        <attribute name="recordID" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordID"/>
+            </userInfo>
+        </attribute>
+        <attribute name="type" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MyWorkEntity" representedClassName="MyWorkEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="category" optional="YES" attributeType="String"/>
+        <attribute name="imageId" optional="YES" attributeType="String"/>
+        <attribute name="level" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="position" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="purchase" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="recordData" optional="YES" attributeType="Binary">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordData"/>
+            </userInfo>
+        </attribute>
+        <attribute name="recordID" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordID"/>
+            </userInfo>
+        </attribute>
+        <userInfo>
+            <entry key="key" value="value"/>
+        </userInfo>
+    </entity>
+    <entity name="ThumbNailEntity" representedClassName="ThumbNailEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="imageId" optional="YES" attributeType="String"/>
+        <attribute name="lastUpdatedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="recordData" optional="YES" attributeType="Binary">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordData"/>
+            </userInfo>
+        </attribute>
+        <attribute name="recordID" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="CloudCoreType" value="recordID"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thumb" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" customClassName="Data"/>
+    </entity>
+    <elements>
+        <element name="DrawViewEntity" positionX="-54" positionY="-9" width="128" height="118"/>
+        <element name="ImageColorEntity" positionX="-63" positionY="-18" width="128" height="118"/>
+        <element name="MyWorkEntity" positionX="-36" positionY="9" width="128" height="163"/>
+        <element name="ThumbNailEntity" positionX="-45" positionY="54" width="128" height="118"/>
+    </elements>
+</model>

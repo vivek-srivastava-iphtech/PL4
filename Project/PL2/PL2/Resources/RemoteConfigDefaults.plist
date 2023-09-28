@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reminder_time</key>
+	<integer>240</integer>
+	<key>reward_tools</key>
+	<integer>15</integer>
+	<key>interstitialTime</key>
+	<integer>20</integer>
+	<key>compliance_window</key>
+	<string>comp_win_2</string>
+	<key>reminder_time1</key>
+	<integer>240</integer>
+	<key>current_tool_window</key>
+	<string>tool_win_2</string>
+	<key>rewardTime</key>
+	<integer>120</integer>
+	<key>Ad_Tracking</key>
+	<integer>1</integer>
+	<key>Bomb_s</key>
+	<integer>1</integer>
+	<key>Color_number</key>
+	<integer>100</integer>
+	<key>purchase_ss</key>
+	<integer>0</integer>
+	<key>new_window</key>
+	<integer>0</integer>
+	<key>Mystery_win</key>
+	<integer>2</integer>
+</dict>
+</plist>

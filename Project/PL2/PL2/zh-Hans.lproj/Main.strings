@@ -1,0 +1,23 @@
+
+/* Class = "UITabBarItem"; title = "My Work"; ObjectID = "CUb-B6-WWL"; */
+"CUb-B6-WWL.title" = "我的作品";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "HMV-0l-Shg"; */
+"HMV-0l-Shg.title" = "设置";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "KIy-uo-8ak"; */
+"KIy-uo-8ak.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TJi-Y9-aHJ"; */
+"TJi-Y9-aHJ.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Pages"; ObjectID = "rjM-VK-Edx"; */
+"rjM-VK-Edx.title" = "画廊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wd6-d0-9fL"; */
+"wd6-d0-9fL.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "vmM-cM-SWK"; */
+"vmM-cM-SWK.title" = "新闻";
+/* Class = "UITabBarItem"; title = "Explore"; ObjectID = "Byx-vG-Pp3"; */
+"6Fz-vL-cNq.title" = "探索";

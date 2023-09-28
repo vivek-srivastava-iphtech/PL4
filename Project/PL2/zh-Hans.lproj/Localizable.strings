@@ -1,0 +1,865 @@
+/* 
+ Localizable.strings
+ PL2
+ 
+ Created by Lekha Mishra on 12/18/17.
+ Copyright © 2017 IPHS Technologies. All rights reserved.
+ */
+
+/* My Work */
+"My Work" = "我的作品";
+
+/* Tutorial */
+"Tutorial" = "说明";
+
+/* Contact */
+"Contact" = "联系";
+
+/* Restore */
+"Restore" = "恢复";
+
+/* Paint Bucket */
+"Paint Bucket" = "油漆桶";
+
+/* Extended */
+"Extended" = "扩展的";
+
+/* Normal */
+"Normal" = "普通的";
+
+/* About */
+"About" = "关于";
+
+/* Help */
+"Help" = "帮助";
+
+/* Subscription */
+"Subscription" = "订阅";
+
+/* New & Popular */
+"New" = "新的";
+/* Popular */
+"Popular" = "流行";
+
+/* Bonus */
+"Bonus" = "奖金";
+
+/* Awakening */
+"Awakening" = "唤醒";
+
+/* Tree of Life */
+"Tree of Life" = "生命之树";
+
+/* Fairyland */
+"Fairyland" = "山林仙境";
+
+/* Holidays */
+"Holidays" = "节日";
+
+/* Cats */
+"Cats" = "猫";
+
+/* Dogs */
+"Dogs" = "狗";
+
+/* Emoji */
+"Emoji" = "表情符号";
+
+/* Food */
+"Food" = "餐饮";
+
+/* Scenery */
+"Scenery" = "风景";
+
+/* Celebrations */
+"Celebration" = "庆祝";
+
+/* People */
+"People" = "人";
+
+/* Plants and Flowers */
+"Plants & flowers" = "植物和花卉";
+"Plants & Flowers" = "植物和花卉";
+/* Words */
+"Words" = "言辞";
+
+/* Space */
+"Space" = "太空";
+
+/* Wild Animals */
+"Wild animals" = "动物";
+"Wild Animals" = "动物";
+/* Art */
+"Art" = "艺术";
+
+/* Architecture */
+"Architecture" = "建筑";
+
+/* Bugs */
+"Bugs" = "虫";
+
+/* Pattern */
+"Pattern" = "几何图案";
+
+/* Sea life */
+"Sea life" = "海洋生物";
+"Sea Life" = "海洋生物";
+/* Aquarium */
+"Aquarium" = "水族馆";
+
+/* Sports */
+"Sports" = "体育";
+
+/* Mythology */
+"Mythology" = "神话";
+
+/* Birds */
+"Birds" = "鸟";
+
+/* Fantasy */
+"Fantasy" = "幻想";
+
+/* Funny */
+"Funny" = "好笑";
+
+/* For Kids */
+"For Kids" = "给孩子";
+
+/* Nature */
+"Nature" = "自然";
+
+/* Places */
+"Places" = "地方";
+
+/* Mandalas */
+"Mandalas" = "Mandalas";
+
+/* Transportation */
+"Transportation" = "运输";
+
+/* Holiday Special */
+"Holiday Special" = "Holiday Special";
+
+/* Christmas Special */
+"Christmas" = "圣诞节";
+
+/* Christmas I*/
+"Christmas I" = "圣诞特别版 I";
+
+/* Christmas II*/
+"Christmas II" = "圣诞特别版 II";
+"Christmas Ii" = "圣诞特别版 II";
+"Christmas Iii" = "圣诞特别版 III";
+"Christmas III" = "圣诞特别版 III";
+"Christmas IV" = "圣诞特别版 IV";
+"Christmas Iv" = "圣诞特别版 IV";
+
+"Vintage" = "圣诞复古";
+
+/* Advent Calendar */
+"Advent Calendar" = "出现日历";
+
+/* Special Day */
+"Special Day" = "特殊的日子";
+
+/* Day of the Dead */
+"Day of the Dead" = "亡灵节";
+"Day of the dead" = "亡灵节";
+
+/* Knitted Items */
+"Knitted Items" = "针织品";
+
+/* Holiday Wreaths */
+"Holiday Wreaths" = "节日花环";
+"Holiday wreaths" = "节日花环";
+
+/* Wreaths */
+"Wreaths" = "花环";
+
+/* Beetles */
+"Beetles" = "甲虫";
+
+/* Hanukkah */
+"Hanukkah" = "光明节";
+
+/* TV and Games */
+"TV & Games" = "电视和游戏";
+
+/* Characters */
+"Characters" = "人物";
+
+/* Fashion */
+"Fashion" = "时尚";
+
+/* Things */
+"Things" = "物件";
+
+/* Horses */
+"Horses" = "马";
+
+/* Ornaments */
+"Ornaments" = "圣诞饰品";
+
+/* Thanksgiving */
+"Thanksgiving" = "感恩节";
+
+/* Valentine*/
+"Valentine" = "情人节";
+
+/* Basicss */
+"Basics" = "基本";
+
+/* Easy */
+"Easy" = "初级";
+
+/* Butterflies */
+"Butterflies" = "蝴蝶";
+
+/* Butterflies */
+"Butterflies I" = "蝴蝶 I";
+
+/* Hearts */
+"Hearts" = "心形";
+
+/* Lighthouse */
+"Lighthouse" = "灯塔";
+
+/* Sunset */
+"Sunset" = "日落";
+
+/* Roses */
+"Roses" = "玫瑰";
+
+/* Astrology */
+"Astrology" = "星座";
+
+/* Van Gogh */
+"Van Gogh" = "梵高";
+
+/* Alice Wonderland */
+"Alice Wonderland" = "爱丽丝梦游仙境";
+
+/* Sea Shells */
+"Sea Shells" = "贝壳";
+
+/* Desserts */
+"Desserts" = "甜点";
+
+/* Easter */
+"Easter" = "复活节";
+
+/* Fairytales */
+"Fairytales" = "童话";
+
+/* Sunflowers */
+"Sunflowers" = "向日葵";
+
+/* Countries */
+"Countries" = "国家";
+
+/* Mountains */
+"Mountains" = "山景";
+
+/* Lakes */
+"Lakes" = "湖景";
+
+/* Unicorns */
+"Unicorns" = "独角兽";
+
+/* Famous people */
+"Famous People" = "名人";
+
+/* Fruits */
+"Fruits" = "水果";
+
+/* Beach */
+"Beach" = "海滩";
+
+/* Cities */
+"Cities" = "城市";
+
+/* Wonderland */
+"Wonderland" = "梦游仙境";
+
+/* seasons */
+"Seasons" = "季节";
+
+/* reflection */
+"Reflection" = "座右铭";
+
+/* Collection */
+"Collection" = "系列";
+
+/* Vacation */
+"Vacation" = "假期";
+
+/* Shoes */
+"Shoes" = "鞋";
+
+/* Dresses */
+"Dresses" = "女装";
+
+/* Costumes */
+"Costumes" = "戏装";
+
+/* Plant Pots */
+"Plant Pots" = "盆艺";
+
+/* Succulents */
+"Succulents" = "多肉植物";
+
+/* Succulents */
+"Succulents I" = "多肉植物 I";
+
+/* Carnival */
+"Carnival" = "狂欢节";
+
+/* Circus */
+"Circus" = "马戏团";
+
+/* Tea Time */
+"Tea Time" = "下午茶";
+
+/* Bath Time */
+"Bath Time" = "沐浴";
+
+/* Zen Garden */
+"Zen Garden" = "禅园";
+
+/* Pink */
+"Pink" = "粉红色";
+
+/* Halloween */
+"Halloween" = "万圣节";
+
+/* Halloween */
+"Halloween I" = "万圣节 I";
+
+/* Halloween */
+"Halloween II" = "万圣节 II";
+
+/* Chinese New Year */
+"Chinese New Year" = "农历新年";
+
+"Beneath the Stars" = "星空之下";
+"Calm" = "平静";
+"Dreams" = "梦境";
+"Months" = "月份";
+"Summer Vacation" = "海滩度假";
+"Summer vacation" = "海滩度假";
+"Parrots" = "鹦鹉";
+"Turtles" = "海龟";
+"Desserts I" = "甜点 I";
+"Father's Day" = "父亲节";
+"Mother's Day" = "母亲节";
+"Peacocks" = "孔雀";
+"Celestial Magic" = "天体魔法";
+"Sleep shanties" = "催眠曲";
+"Stories" = "故事";
+"Mermaids" = "美人魚";
+"Dreamscape" = "夢想家";
+"Imagine" = "奥妙世界";
+"Cute" = "可爱";
+"Journey" = "旅程";
+"Islands" = "岛屿";
+"Characters" = "人物";
+"Enchanted" = "魔法森林";
+"purple" = "紫色";
+"Purple" = "紫色";
+"Secret Garden" = "秘密花园";
+"Lizards" = "蜥蜴";
+"Owls" = "猫头鹰";
+"Wind" = "随风";
+"Retro" = "复古";
+
+"Mystic Garden" = "神秘花园";
+"Mystic garden" = "神秘花园";
+"Forest" = "森林";
+"Spring" = "春季";
+"Wild West" = "西部";
+"Cheers" = "干杯";
+"Dancing" = "跳舞";
+"Enchanter" = "魔法师";
+"Recharge" = "休息";
+"Memories" = "回忆";
+"Santuary" = "避风港";
+"Mermaids" = "美人鱼";
+"Crystal" = "水晶";
+"Constellation" = "海洋星座";
+"Cupcakes" = "纸杯蛋糕";
+"Morning" = "早晨";
+"Masquerade" = "化装舞会";
+"Earth Day" = "地球日";
+"Storms" = "风暴";
+"Koi" = "锦鲤";
+"Waves" = "海浪";
+"Waterfalls" = "瀑布";
+"Ocean" = "海洋";
+"Mushroom" = "蘑菇";
+"Seaside" = "海滨";
+"Moonlight" = "月光";
+"Bridge" = "桥";
+"Escape" = "逃避";
+"Flowers I" = "花卉 I";
+"Flowers II" = "花卉 II";
+"Flowers Ii" = "花卉 II";
+"New Beginning" = "新的开始";
+"Snowscape" = "雪景";
+"Rain" = "雨";
+"Lost ocean" = "迷失的海洋";
+"Winter" = "冬季";
+
+"Autumn I" = "秋季 I";
+"Autumn II" = "秋季 II";
+"Autumn III" = "秋季 III";
+"Africa" = "非洲";
+"Magic potions" = "魔法水";
+"Magic Potions" = "魔法水";
+"Amulets" = "护身符";
+"Portals" = "瞬移门";
+"Fields" = "田野";
+"Moments" = "时刻";
+"Night Sky" = "夜空";
+"Night sky" = "夜空";
+"Antiques" = "古董";
+"Bloom" = "盛开";
+"Paradise" = "天堂";
+"Peaks" = "高峰";
+"Serenity" = "宁静";
+"Endangered Species" = "濒危动物";
+"Endangered species" = "濒危动物";
+
+/* v5.2*/
+"Autumn Leaves" = "秋天的落叶";
+"Autumn leaves" = "秋天的落叶";
+"European Cities" = "欧洲城市";
+"European cities" = "欧洲城市";
+"Hot Air Balloons" = "热气球";
+"Hot air balloons" = "热气球";
+"Arctic" = "北极";
+"Winter Moments" = "冬季时刻";
+"Winter moments" = "冬季时刻";
+"Christmas Balls" = "圣诞泡泡";
+"Christmas balls" = "圣诞泡泡";
+"Christmas Forest" = "圣诞森林";
+"Christmas forest" = "圣诞森林";
+"France" = "法国";
+"Circus I" = "马戏团 I";
+"Lost ocean" = "迷失的海洋";
+"Secret garden" = "秘密花园";
+"Knitted items" = "针织品";
+"Bath time" = "沐浴";
+"Tea time" = "下午茶";
+"Advent calendar" = "出现日历";
+"Wild west" = "西部";
+"Planets" = "行星";
+"Keys" = "钥匙";
+"Style I" = "风格 I";
+"Mindfulness" = "正念";
+"Aromatherapy" = "香薰";
+"Blue" = "蓝色";
+"Zentangle" = "禅绕画";
+"Spain" = "西班牙";
+"Faces" = "面孔";
+"Retro I" = "复古 I";
+"Magic School" = "魔法学校";
+"Magic school" = "魔法学校";
+"Feathers" = "羽毛";
+"Alphabet" = "字母";
+"Spring Blooms" = "春暖花开";
+"Spring blooms" = "春暖花开";
+"Mother's Love" = "母亲的爱";
+"Mother's love" = "母亲的爱";
+"Flower Mandala" = "花坛城";
+"Flower mandala" = "花坛城";
+"Bonsai" = "盆栽";
+"Rainbow" = "彩虹";
+"Affirmations" = "肯定";
+"Orchids" = "兰花";
+"Stained Glass" = "彩绘玻璃";
+"Stained glass" = "彩绘玻璃";
+"Magic World" = "魔法世界";
+"Magic world" = "魔法世界";
+"Sunset I" = "日落 I";
+"Yellow" = "黄色";
+"Tropical" = "热带";
+"Moon" = "月亮";
+"Fans" = "扇子";
+"Nautical love" = "航海之爱";
+"Nautical Love" = "航海之爱";
+"Holiday dreams" = "梦想假期";
+"Holiday Dreams" = "梦想假期";
+"Living in Nature" = "自然空间";
+"Living in nature" = "自然空间";
+
+
+/* Enjoy Pixel Color? */
+"Enjoy Pixel Color?" = "喜欢拼豆游戏?";
+
+/* Gives us a happy face */
+"Gives us a happy face" = "给5星支持免费更新";
+
+/* Give us a good rating to encourage us! */
+"Give us a good rating to encourage us!" = "给5星支持免费更新!";
+
+/* feedback */
+"feedback" = "建议箱";
+
+/* 5 stars */
+"5 stars" = "5星鼓勵";
+
+/* Unlock over 100 pictures */
+"Unlock over 100 pictures" = "超过60张图画";
+
+/* They are yours to keep */
+"They are yours to keep" = "你可以永远保留";
+
+/* No recurring fee */
+"No recurring fee" = "没有定期性收费";
+
+/* Unlock Starter Pack */
+"Unlock Starter Pack" = "解锁入门套";
+
+/* 7 Days Free */
+"7 Days Free" = "7天免费试用";
+
+/* 1 week for */
+"1 week for" = "1周";
+
+/* 1 month for */
+"1 month for" = "1月";
+
+/* 1 year for */
+"1 year for" = "1年";
+
+/* / Week */
+"/ Week" = "/周";
+
+/* / Month */
+"/ Month" = "/月";
+
+/* / Year */
+"/ Year" = "/年";
+
+/* 1 week subscription */
+"1 week subscription" = "7天免费试用";
+
+"3 days free trial then" = "7天免费试用，然后 ";
+"3 day free, then" = "7天免费，然后";
+
+"FREE TRIAL" = "免费试用";
+"Start Plan with Trial" = "开始试用订阅";
+
+"UNLOCK ALL PICTURES" = "您心静的旅程从这里开始";
+
+"Start Free Trial" = "免费试用";
+
+"Unlimited" = "无限";
+"Free Trial" = "免费试用";
+"Get x " = "购买x ";
+"for" = "";
+
+
+
+/* 1 month subscription */
+"1 month subscription" = "1月订阅";
+
+/* 1 year subscription */
+"1 year subscription" = "1年订阅";
+
+/* Get Pixel Coloring Pro for unlimited access to all pictures and updates */
+"Get Pixel Coloring Pro for unlimited access\nto all pictures and updates." = "购买拼豆VIP将得到所有的拼豆设计\n无限的绘画工具,没有广告";
+
+
+/* Join the community to access all pictures */
+"Join the community to access all pictures" = "Join the community to access all pictures";
+
+/* Terms & Privacy */
+"Terms & Privacy" = "使用条款和隐私";
+
+/* Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior\nto the end of the current period, and identify the cost of the renewal. */
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at least \n24-hours before the end of the current period. Account will \nbe charged for renewal within 24-hour prior to the \nend of the current period, and identify the cost of the renewal." = "用户可以随时管理订阅。购买后,自动续订可以通过用户的\n帐户设置来关闭。关于出版物的适用地方, 任何未使用的\n免费试用期段, 如果提供，将在用户购买订阅时被取消。\n在确认购买时, 付款将在iTunes帐户收取。订阅自动续订，\n除非用户在目前的订阅期间结束前24小时关闭自动续订。\n帐户将在前期结束24小时之前收取续订费用并确定续订的费用。";
+
+"Subscription may be managed by the user and auto-renewal may be turned off by\n going to the user’s Account Settings after purchase. Any unused portion of a free trial period,\n if offered, will be forfeited when the user purchases a subscription to that publication,\n where applicable. Payment will be charged to iTunes Account at confirmation of purchase.\n Subscription automatically renews unless auto-renew is turned off at least 24-hours\n before the end of the current period. Account will be charged for renewal within 24-hour\n prior to the end of the current period, and identify the cost of the renewal." = "用户可以随时管理订阅。购买后,自动续订可以通过用户的\n帐户设置来关闭。关于出版物的适用地方, 任何未使用的\n免费试用期段, 如果提供，将在用户购买订阅时被取消。\n在确认购买时, 付款将在iTunes帐户收取。订阅自动续订，\n除非用户在目前的订阅期间结束前24小时关闭自动续订。\n帐户将在前期结束24小时之前收取续订费用并确定续订的费用。";
+
+/* Notification: Do you want to get notified\nwhen there are new pictures ready? */
+"Do you want to get notified\nwhen there are new pictures ready?" = "你想收到新设计的通知吗?";
+
+/* Notification: Maybe Later */
+"Maybe Later" = "等一下";
+
+/* Notificaiton: YES */
+"YES" = "好";
+
+/* My Work: Share */
+"Share" = "分享";
+
+/* My Work: Continue */
+"Continue" = "继续";
+
+/* My Work: Delete */
+"Delete" = "删除";
+
+/* My Work: Cancel */
+"Cancel" = "取消";
+
+/* help docx */
+"help_base" = "help_chinese_simplified";
+
+/* Oops */
+"Oops" = "糟糕";
+
+/* No Internet Connection */
+"No Internet Connection" = "没有连接";
+
+/* Please try again */
+"Please try again" = "请再试一次";
+
+/* Out of tips */
+"Out of tips" = "用完提示";
+
+/* Out of Paint Buckets */
+"Out of Paint Buckets" = "用完油漆桶";
+
+/* Out of Paint Pickers */
+"Out of Color Pickers" = "用完挑色滴管";
+
+/* Retry */
+"Retry" = "重试";
+
+/* To get 3 Tips */
+"To get 3 Tips" = "";
+
+/* To get 5 Paint Buckets */
+"To get 5 Paint Buckets" = "";
+
+/* To get 5 Paint Pickers */
+"To get 5 Color Pickers" = "";
+
+/* For Free */
+"For Free" = "免费试用";
+
+/* Watch a video */
+"Watch a video" = "";
+
+/* Pixel Pro */
+"Pixel Pro" = "像素专业版";
+
+"Get your daily gift!" = "每天都有礼物!";
+"Today" = "今天";
+"Day 2" = "第二天";
+"Day 3" = "第三天";
+"Day 4" = "第四天";
+"Day 5" = "第五天";
+" x Hints" = " x 提示";
+//"3 x Hints" = "3 x Hints";
+"Claim" = "取的";
+
+"Congratulations!" = "恭喜!你完成了!";
+
+"You did it!" = "你完成了!";
+
+"Share your artwork" = "分享你的作品";
+
+"and get 5 more" = "获得10个油漆桶";
+
+"You got 10 Paint Buckets." = "你获得10个油漆桶!";
+
+"share to get 10 Paint Buckets" = "分享作品获得10个油漆桶";
+
+// Amazing
+"Amazing!" = "⭐ ⭐ ⭐ 好棒! ⭐ ⭐ ⭐";
+// Lets try some more
+"Let's try some more" = "让我们再试试! 🙌";
+
+//Tutorial Screen:
+/* Tap 1 time for 1x zoom */
+"Tap 1 time for 1x zoom" = "轻点一次屏幕放大1倍";
+
+/* Tap 2 times for 2x zoom */
+"Tap 2 times for 2x zoom" = "轻点二次屏幕放大2倍";
+
+/* Pinch to zoom in */
+"Pinch to zoom in" = "捏合即可缩小屏幕";
+
+/* and zoom out */
+"and zoom out" = "捏开即可放大屏幕";
+
+/* Select color in palette */
+"Select color in palette" = "选择调色板上的颜色";
+
+/* and color boxes with */
+"and color boxes with" = "在相对号码的著色区着色";
+
+/* matching numbers */
+"matching numbers" = "";
+
+/* Use long tap to color */
+"Use long tap to color" = "长按即可在著色区";
+
+/* consecutive boxes */
+"consecutive boxes" = "连续着色";
+
+/* Tap Paint Bucket */
+"Tap Paint Bucket" = "使用油漆桶";
+
+/* to color large area */
+"to color large area" = "填满大面积";
+
+/* Tap Hint to help */
+"Tap Hint to help" = "使用提示";
+
+/* finding where to color */
+"finding where to color" = "寻找颜色的位置";
+
+/* Tap Paint Picker to */
+"Tap Paint Picker to" = "按住一个着色区";
+
+/* auto-select color */
+"auto-select color" = "即可自动选择颜色";
+
+/* in palette */
+"in palette" = "";
+
+//News Screen:
+/* news */
+"news" = "新闻";
+
+/* open */
+"Open" = "打开";
+
+/* Notification sign-up */
+"Don't miss out on new design" = "不要错过新设计";
+
+/* Notification sign-up */
+"Sign up for notifications" = "获取15个油漆桶";
+
+/* Share with Friends */
+"Share with Friends" = "和朋友分享";
+
+/* Share with Friends */
+"Both of you get bonus images" = "大家都获得特别的设计";
+
+/* Join our facebook community */
+"Join our facebook community" = "加入我们的Facebook Community";
+
+/* Find exclusive images */
+"find exclusive images" = "你将会找到独家设计";
+
+/* Join our Instagram community */
+"Join our Instagram community" = "在Instagram上关注我们";
+
+/* share your work */
+"Share your work" = "分享你的作品";
+
+/* Vote on future design */
+"Vote on future design" = "给未来的设计提供意见";
+
+/* We are listening */
+"We are listening" = "我们期待着您的回复";
+
+//Video Screen:
+/* copy hastag */
+"copy hashtag" = "复制主题标签#";
+
+/* copied */
+"copied" = "复制了";
+
+/*Booster*/
+"Booster Pack for friends" = "获得良好的业力";
+"Daily booster pack for  friends" = "发送油漆桶补给朋友";
+"Send" = "发送";
+"You have reached the daily limit. Try again tomorrow" = "您已达到每日的限额。请明天再试";
+"You have received a booster pack" = "您已经收到了一个补充包 (30个油漆桶)";
+"You have reached your daily limit" = "您已达到每日限额";
+
+/*Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior*/
+
+
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior" = "用户可以随时管理订阅。购买后,自动续订可以通过用户的\n帐户设置来关闭。关于出版物的适用地方,\n任何未使用的免费试用期段, 如果提供,\n将在用户购买订阅时被取消。在确认购买时,\n付款将在iTunes帐户收取。订阅自动续订，\n除非至少在当前期间结束前24小时关闭自动续订。\n帐户将在前期结束24小时之前收取\n续订费用并确定续订的费用。";
+
+//Launch subscription Screen:
+"Simply relax and color.\nSee your beautiful artwork comes to life\nAccess to all pictures and unlimited paint tools" = "加入拼豆VIP\n解锁所有图画设计\n无限的绘画工具";
+
+"No commitment. Cancel anytime." = "首先尝试。随时取消";
+
+"Your video is successfully saved" = "您的视频已保存";
+
+"Your image is successfully saved" = "您的图画已保存";
+"By tapping Continue, you are confirming that you reviewed and accepted our Terms Of Use and Privacy Policy." = "选择“继续”即表示您已查看并接受我们的使用条款和隐私政策";
+"Welcome" = "欢迎";
+"Welcome!" = "欢迎!";
+"Our app serves ads to help us\n provide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window.\n\nBy tapping Continue, you are\nconfirming that you reviewed and\naccepted our Terms Of Use and\nPrivacy Policy." = "选择“继续”即表示您已查看并接受我们的使用条款和隐私政策";
+"Accept" = "接受";
+"More Info" = "更多信息";
+"Our app serves ads to help us\nprovide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window." = "我们的应用程序依靠广告来帮助\n我们提供一些免费的内容。\n如果允许追踪，您将看到\n个性化广告，而不是无聊的广告。\n请在下一个提示中选择 “允许追踪”。";
+
+// Bonus
+"CLAIM" = "取的";
+"Success!" = "成功!";
+"Bonus pack has been\nunlocked! Check it out at\nBonus section." = "奖金设计集已解锁!\n请在奖金画廊看看。";
+"You need to update notification permission, Go to Settings and choose to allow access to your location." = "您需要更新通知权限，请选择设置，然后选择允许通知。";
+
+"Alert:" = "提示：";
+"Open Setting" = "打开设置";
+
+// Local Notification
+"Use the power of now!" = "💪 把握现在!";
+"It is perfect time to finish your" = "完成您的艺术作品-";
+
+"Sorry to see you go!" = "很遗憾看见您离开!";
+"\nWe’ll stop collecting your data\nin this game when you select “QUIT”.\nIf you change your mind,\nyou can continue playing at any time.\nNote: When you revisit the app,\nwe will ask for your consent once again." = "当您选择“放弃”时\n我们将停止在此收集您的数据。\n如果您改变主意，则可随时恢复。\n\n注意：当您重新开始此该应用程序，\n我们将再次征求您的同意";
+"QUIT" = "放弃";
+
+//Paint Note
+"New Paint Bucket!" = "新的油漆桶";
+"Feature can be turned" = "功能可以在";
+"off at Settings" = "设置中更改";
+//Settings
+"Paint Bucket - Extended" = "油漆桶-加长";
+"Paint Bucket - Normal" = "油漆桶-普通";
+
+"It's time to relax" = "是放松的时候了";
+"Get started" = "开始吧";
+
+"Editor's Picks" = "编辑精选";
+"Explore" = "探索";
+"Recent" = "最近的";
+"Journey" =  "旅行";
+"Collections" = "系列";
+"Your journey to relexation begins here" = "您心静的旅程从这里开始";
+"Start Trial" = "开始免费试用";
+
+"Use the bomb to color\neverything around" = "使用炸弹上色\n周围的一切";
+
+/*updated subscription */
+"Weekly" = "每周";
+"Monthly" = "每月";
+"Annual" = "年度";
+"Start Now" = "现在开始";
+"Begin Now" = "现在开始";
+
+"Weekly Subscription" = "每周订阅";
+"Monthly Subscription" = "每月订阅";
+"Yearly Subscription" = "年度订阅";
+
+"Go!" = "走!";
+"Take me to New Category" = "带我去新画廊";
+"Add New Category" = "添加新类别";
+"You got 10 Hints" = "你有10个提示";
+"NEW" = "新的";
+"Get your daily mystery gift" = "获取您每日的\n神秘礼物";
+"You got 15 Paint Buckets and 15 Hints!" = "您获得 15个油漆桶和 15个提示!";
+"You got 10 Paint Buckets and 10 Hints!" = "您获得 10个油漆桶和 10个提示!";
+"You got 5 Hints" = "您获得 5 个提示和";
+"You got 15 Hints" = "您获得 15 个提示和";
+"You got 10 Hints" = "您获得 10 个提示和";
+"You got 5 Paint Buckets" = "您获得 5 个油漆桶";
+"You got 15 Paint Buckets" = "您获得 15 个油漆桶";
+"You got 10 Paint Buckets" = "您获得 10 个油漆桶";
+"You got 5 Paint Buckets" = "您获得 5 个油漆桶";
+"You got a Booster" = "您获得一个補充包\n(30個油漆桶)";
+
+/* Explore Screen - View*/
+"All Collections" = "所有的系列";
+"View All Collections" = "所有的系列";

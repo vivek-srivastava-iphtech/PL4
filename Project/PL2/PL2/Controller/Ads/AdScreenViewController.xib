@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AdScreenViewController" customModule="PL2" customModuleProvider="target">
+            <connections>
+                <outlet property="freeButton" destination="ztr-cV-MPh" id="K09-hM-kz3"/>
+                <outlet property="joinCommunityLbl" destination="0eB-Gs-gvu" id="IRP-Eo-2FJ"/>
+                <outlet property="monthSubscriptionButton" destination="IAD-Gf-3yX" id="k4z-Y4-Kuv"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="yearSubscriptionButton" destination="1Lb-TM-3DO" id="13J-ka-HtM"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="subscription" translatesAutoresizingMaskIntoConstraints="NO" id="WQr-YF-ePV" customClass="subscription">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BJc-DT-dIO">
+                    <rect key="frame" x="326" y="21" width="29" height="29"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="29" id="8m0-wu-Ihi"/>
+                        <constraint firstAttribute="width" constant="29" id="rPB-zr-FGD"/>
+                    </constraints>
+                    <state key="normal" image="cancel"/>
+                    <connections>
+                        <action selector="cancelClicked:" destination="-1" eventType="touchUpInside" id="Qgd-ER-0ig"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Get Pixel Coloring Pro unlimited access to all pictures and updates." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0eB-Gs-gvu">
+                    <rect key="frame" x="40" y="330" width="295" height="36"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                    <color key="textColor" red="0.47843137254901957" green="0.47843137254901957" blue="0.47843137254901957" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ztr-cV-MPh" customClass="PurchaseButton" customModule="PL2" customModuleProvider="target">
+                    <rect key="frame" x="85" y="396" width="205" height="36"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <state key="normal" title="$ 2.99 / Week">
+                        <color key="titleColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Lb-TM-3DO" customClass="PurchaseButton" customModule="PL2" customModuleProvider="target">
+                    <rect key="frame" x="85" y="523" width="205" height="36"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <state key="normal" title="$ 11.99 / Year">
+                        <color key="titleColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TVL-7N-kxq">
+                    <rect key="frame" x="157" y="584" width="60" height="33"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <state key="normal" title="Restore">
+                        <color key="titleColor" red="0.098039217289999994" green="0.098039217289999994" blue="0.098039217289999994" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IAD-Gf-3yX" customClass="PurchaseButton" customModule="PL2" customModuleProvider="target">
+                    <rect key="frame" x="85" y="457" width="205" height="36"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <state key="normal" title="$ 7.99 / Month">
+                        <color key="titleColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3I5-dR-iGU">
+                    <rect key="frame" x="20" y="618" width="29" height="29"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="29" id="qsD-3S-FLe"/>
+                        <constraint firstAttribute="width" constant="29" id="sBI-NW-R8B"/>
+                    </constraints>
+                    <state key="normal" image="help"/>
+                    <connections>
+                        <action selector="helpClicked:" destination="-1" eventType="touchUpInside" id="dz6-3N-iyh"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="TVL-7N-kxq" firstAttribute="top" secondItem="1Lb-TM-3DO" secondAttribute="bottom" constant="25" id="0av-zG-trQ"/>
+                <constraint firstAttribute="trailing" secondItem="ztr-cV-MPh" secondAttribute="trailing" constant="85" id="1NT-TA-nI4"/>
+                <constraint firstItem="ztr-cV-MPh" firstAttribute="top" secondItem="0eB-Gs-gvu" secondAttribute="bottom" constant="30" id="2ds-No-ruK"/>
+                <constraint firstItem="0eB-Gs-gvu" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="40" id="2rw-5G-b0N"/>
+                <constraint firstAttribute="bottom" secondItem="TVL-7N-kxq" secondAttribute="bottom" constant="50" id="8dd-PF-Xc9"/>
+                <constraint firstAttribute="trailing" secondItem="1Lb-TM-3DO" secondAttribute="trailing" constant="85" id="98e-VF-eBb"/>
+                <constraint firstAttribute="trailing" secondItem="BJc-DT-dIO" secondAttribute="trailing" constant="20" id="AhC-Jd-dPb"/>
+                <constraint firstItem="IAD-Gf-3yX" firstAttribute="top" secondItem="ztr-cV-MPh" secondAttribute="bottom" constant="25" id="Bk1-4X-J6E"/>
+                <constraint firstAttribute="trailing" secondItem="0eB-Gs-gvu" secondAttribute="trailing" constant="40" id="FZn-Hv-GnH"/>
+                <constraint firstItem="WQr-YF-ePV" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Fbf-YY-AXx"/>
+                <constraint firstItem="BJc-DT-dIO" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="21" id="HTd-ni-QU1"/>
+                <constraint firstItem="1Lb-TM-3DO" firstAttribute="top" secondItem="IAD-Gf-3yX" secondAttribute="bottom" constant="30" id="JKY-5U-Q3U"/>
+                <constraint firstItem="ztr-cV-MPh" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="85" id="NGG-zc-EhJ"/>
+                <constraint firstItem="3I5-dR-iGU" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="VG3-bM-khX"/>
+                <constraint firstAttribute="trailing" secondItem="IAD-Gf-3yX" secondAttribute="trailing" constant="85" id="VXu-6P-age"/>
+                <constraint firstItem="IAD-Gf-3yX" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="85" id="ViU-bT-JGs"/>
+                <constraint firstAttribute="trailing" secondItem="WQr-YF-ePV" secondAttribute="trailing" id="Xjo-Hr-psb"/>
+                <constraint firstItem="TVL-7N-kxq" firstAttribute="leading" secondItem="WQr-YF-ePV" secondAttribute="leading" constant="157" id="aP7-kY-vfO"/>
+                <constraint firstAttribute="bottom" secondItem="WQr-YF-ePV" secondAttribute="bottom" id="af8-CS-MNV"/>
+                <constraint firstItem="1Lb-TM-3DO" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="85" id="fjH-f3-vwM"/>
+                <constraint firstAttribute="trailing" secondItem="TVL-7N-kxq" secondAttribute="trailing" constant="158" id="my0-7G-urA"/>
+                <constraint firstAttribute="bottom" secondItem="3I5-dR-iGU" secondAttribute="bottom" constant="20" id="zOB-gS-BtH"/>
+                <constraint firstItem="WQr-YF-ePV" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="zgP-lp-JLB"/>
+            </constraints>
+            <point key="canvasLocation" x="-69.5" y="21.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="cancel" width="28" height="27"/>
+        <image name="help" width="57" height="57"/>
+        <image name="subscription" width="750" height="1334"/>
+    </resources>
+</document>

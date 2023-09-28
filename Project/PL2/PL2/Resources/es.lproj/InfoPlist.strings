@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  PL2
+
+  Created by Lynn Liao on 2/6/18.
+  Copyright © 2018 Moo Moo Lab LLC. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Pixel Dibujos";
+
+"CFBundleName" = "Pixel Dibujos";
+
+"NSUserTrackingUsageDescription" = "Para garantizar que su aplicación siga siendo gratuita y que los anuncios que verá estén personalizados";
+
+"NSPhotoLibraryUsageDescription" = "Para que puedas guardar tu trabajo, necesitamos el permiso de la Foto";

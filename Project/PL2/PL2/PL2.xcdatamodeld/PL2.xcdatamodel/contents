@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13241" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ColorNumber" representedClassName="ColorNumber" syncable="YES" codeGenerationType="class">
+        <attribute name="colorId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="colorNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="colorValue" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="ColorValue" representedClassName="ColorValue" syncable="YES" codeGenerationType="class">
+        <attribute name="colorId" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="column" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageColor" optional="YES" attributeType="Transformable" customClassName="Data" syncable="YES"/>
+        <attribute name="sNo" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="DrawViewEntity" representedClassName="DrawViewEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="imageId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pointColorTouple" optional="YES" attributeType="Transformable" customClassName="Data" syncable="YES"/>
+    </entity>
+    <entity name="ImageColorEntity" representedClassName="ImageColorEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="colorData" optional="YES" attributeType="Transformable" customClassName="Data" syncable="YES"/>
+        <attribute name="imageId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="MyWorkEntity" representedClassName="MyWorkEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="free" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="level" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="position" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="verticalGrids" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ColorNumber" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="ColorValue" positionX="-63" positionY="9" width="128" height="105"/>
+        <element name="DrawViewEntity" positionX="-63" positionY="27" width="128" height="75"/>
+        <element name="ImageColorEntity" positionX="-63" positionY="27" width="128" height="90"/>
+        <element name="MyWorkEntity" positionX="-63" positionY="27" width="128" height="150"/>
+    </elements>
+</model>

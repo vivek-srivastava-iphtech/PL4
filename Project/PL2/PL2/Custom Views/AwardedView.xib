@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AwardedView" customModule="PL2" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="G4W-bG-ost" id="FB8-Rg-rf8"/>
+                <outlet property="toplabel" destination="K6S-vS-SuV" id="Lk7-Ke-f73"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="G4W-bG-ost">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="169"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MEW-Hj-dti">
+                    <rect key="frame" x="0.0" y="0.0" width="400" height="169"/>
+                    <subviews>
+                        <view alpha="0.69999998807907104" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7ht-Qk-pxN">
+                            <rect key="frame" x="0.0" y="0.0" width="400" height="169"/>
+                            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xbf-02-U9a">
+                            <rect key="frame" x="10" y="12" width="25" height="25"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="J9c-Rl-BXn"/>
+                                <constraint firstAttribute="width" secondItem="xbf-02-U9a" secondAttribute="height" multiplier="1:1" id="u9M-SD-MHa"/>
+                            </constraints>
+                            <state key="normal" image="cancelReward"/>
+                            <connections>
+                                <action selector="dismissBtn:" destination="-1" eventType="touchUpInside" id="llx-HZ-UtS"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You got 5 Paint Buckets" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K6S-vS-SuV">
+                            <rect key="frame" x="49" y="13" width="343" height="25"/>
+                            <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="18"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="coloredBucketiPhone" translatesAutoresizingMaskIntoConstraints="NO" id="SsP-9K-8hE">
+                            <rect key="frame" x="175" y="58" width="50" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="SsP-9K-8hE" secondAttribute="height" multiplier="1:1" id="7xr-6S-LLR"/>
+                                <constraint firstAttribute="height" constant="50" id="8Tx-8E-oS1"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="K6S-vS-SuV" secondAttribute="trailing" constant="8" id="3hN-h2-LAT"/>
+                        <constraint firstAttribute="bottom" secondItem="7ht-Qk-pxN" secondAttribute="bottom" id="BIh-nc-sgp"/>
+                        <constraint firstItem="7ht-Qk-pxN" firstAttribute="top" secondItem="MEW-Hj-dti" secondAttribute="top" id="GPF-xT-YbL"/>
+                        <constraint firstItem="xbf-02-U9a" firstAttribute="top" secondItem="MEW-Hj-dti" secondAttribute="top" constant="12" id="Lzp-58-mU4"/>
+                        <constraint firstItem="K6S-vS-SuV" firstAttribute="top" secondItem="MEW-Hj-dti" secondAttribute="top" constant="13" id="ReG-hl-2Vv"/>
+                        <constraint firstItem="K6S-vS-SuV" firstAttribute="leading" secondItem="xbf-02-U9a" secondAttribute="trailing" constant="14" id="STe-4U-YZR"/>
+                        <constraint firstItem="SsP-9K-8hE" firstAttribute="centerX" secondItem="MEW-Hj-dti" secondAttribute="centerX" id="SfE-Kz-QJp"/>
+                        <constraint firstAttribute="trailing" secondItem="7ht-Qk-pxN" secondAttribute="trailing" id="V3h-Hj-kmh"/>
+                        <constraint firstItem="7ht-Qk-pxN" firstAttribute="leading" secondItem="MEW-Hj-dti" secondAttribute="leading" id="bdp-kt-wcA"/>
+                        <constraint firstItem="SsP-9K-8hE" firstAttribute="top" secondItem="K6S-vS-SuV" secondAttribute="bottom" constant="20" id="ti5-Kz-orJ"/>
+                        <constraint firstItem="xbf-02-U9a" firstAttribute="leading" secondItem="MEW-Hj-dti" secondAttribute="leading" constant="10" id="yZp-QR-H08"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="MEW-Hj-dti" firstAttribute="top" secondItem="zvG-NY-Ogf" secondAttribute="top" id="8Ah-3L-SPc"/>
+                <constraint firstItem="MEW-Hj-dti" firstAttribute="trailing" secondItem="zvG-NY-Ogf" secondAttribute="trailing" id="Ux4-bO-WJE"/>
+                <constraint firstItem="MEW-Hj-dti" firstAttribute="leading" secondItem="zvG-NY-Ogf" secondAttribute="leading" id="hBd-Bj-D9J"/>
+                <constraint firstItem="MEW-Hj-dti" firstAttribute="bottom" secondItem="G4W-bG-ost" secondAttribute="bottom" id="tU3-cK-jYi"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="zvG-NY-Ogf"/>
+            <point key="canvasLocation" x="-126.40000000000001" y="-178.56071964017991"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="cancelReward" width="46" height="46"/>
+        <image name="coloredBucketiPhone" width="30" height="30"/>
+    </resources>
+</document>

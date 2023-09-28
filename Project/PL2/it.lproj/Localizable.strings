@@ -1,0 +1,869 @@
+/*
+ Localizable.strings
+ PL2
+ 
+ Created by Lekha Mishra on 12/18/17.
+ Copyright © 2017 IPHS Technologies. All rights reserved.
+ */
+
+/* My Work */
+"My Work" = "Mio Lavoro";
+
+/* Tutorial */
+"Tutorial" = "Tutorial";
+
+/* Contact */
+"Contact" = "Feedback";
+
+/* Restore */
+"Restore" = "Ripristina";
+
+/* About */
+"About" = "Informazioni";
+
+/* Pages */
+"Pages" = "Pagine";
+
+/* Settings */
+"Pages" = "Impostazioni";
+
+/* Help */
+"Help" = "Aiuto";
+
+/* Subscription */
+"Subscription" = "Abbonamento";
+
+/* New & Popular */
+"New" = "Nuovo";
+
+/* New & Popular */
+"Popular" = "Popolare";
+
+/* Bonus */
+"Bonus" = "Bonus";
+
+/* Awakening */
+"Awakening" = "Risveglio";
+
+/* Tree of Life */
+"Tree of Life" = "Albero della Vita";
+
+/* Fairyland */
+"Fairyland" = "Paese delle Fate";
+
+/* Holidays */
+"Holidays" = "Festività";
+
+/* Cats */
+"Cats" = "Gatti";
+
+/* Dogs */
+"Dogs" = "Cani";
+
+/* Emoji */
+"Emoji" = "Emoji";
+
+/* Food */
+"Food" = "Cibo";
+
+/* Scenery */
+"Scenery" = "Scenari";
+
+/* Celebrations */
+"Celebration" = "Celebrazioni";
+
+/* People */
+"People" = "Persone";
+
+/* Plants and Flowers */
+"Plants & flowers" = "Piante e Fiori";
+"Plants & Flowers" = "Piante e Fiori";
+/* Texts */
+"Words" = "Testis";
+
+/* Space */
+"Space" = "Spazio";
+
+/* Wild Animals */
+"Wild animals" = "Animali";
+"Wild Animals" = "Animali";
+/* Art */
+"Art" = "Arte";
+
+/* Architecture */
+"Architecture" = "Architettura";
+
+/* Bugs */
+"Bugs" = "Insetti";
+
+/* Pattern */
+"Pattern" = "Modello";
+
+/* Sea life */
+"Sea life" = "Vita Marina";
+"Sea Life" = "Vita Marina";
+/* Aquarium */
+"Aquarium" = "Acquario";
+
+/* Sports */
+"Sports" = "Sport";
+
+/* Mythology */
+"Mythology" = "Mitologia";
+
+/* Birds */
+"Birds" = "Uccelli";
+
+/* Fantasy */
+"Fantasy" = "Fantasia";
+
+/* Funny */
+"Funny" = "Divertente";
+
+/* For Kids */
+"For Kids" = "Per Bambini";
+
+/* Nature */
+"Nature" = "Natura";
+
+/* Places */
+"Places" = "Località";
+
+/* Mandalas */
+"Mandalas" = "Mandalas";
+
+/* Transportation */
+"Transportation" = "Trasporti";
+
+/* Holiday Special */
+"Holiday Special" = "Holiday Special";
+
+/* Christmas Special */
+"Christmas" = "Natale";
+
+/* Christmas I*/
+"Christmas I" = "Natale I";
+
+/* Christmas II*/
+"Christmas II" = "Natale II";
+"Christmas Ii" = "Natale II";
+"Christmas III" = "Natale III";
+"Christmas Iii" = "Natale III";
+"Christmas IV" = "Natale IV";
+"Christmas Iv" = "Natale IV";
+
+"Vintage" = "Vintage Natalizio";
+
+/* Advent Calendar */
+"Advent Calendar" = "Calendario dell'Avvento";
+"Advent calendar" = "Calendario dell'Avvento";
+
+/* Special Day */
+"Special Day" = "Giorno Speciale";
+
+/* Day of the Dead */
+"Day of the Dead" = "Day of the Dead";
+"Day of the dead" = "Day of the Dead";
+
+/* Knitted Items */
+"Knitted Items" = "Articoli a Maglia";
+"Knitted items" = "Articoli a Maglia";
+
+/* Holiday Wreaths */
+"Holiday Wreaths" = "Ghirlande Natalizie";
+"Holiday wreaths" = "Ghirlande Natalizie";
+
+/* Wreaths */
+"Wreaths" = "Ghirlande";
+
+/* Beetles */
+"Beetles" = "Coleotteri";
+
+/* Hanukkah */
+"Hanukkah" = "Hanukkah";
+
+/* TV and Games */
+"TV & Games" = "TV/Giochi";
+
+/* Characters */
+"Characters" = "Personaggi";
+
+/* Fashion */
+"Fashion" = "Moda";
+
+/* Things */
+"Things" = "Oggetti";
+
+/* Horses */
+"Horses" = "Cavalli";
+
+/* Thanksgiving */
+"Thanksgiving" = "Ringraziamento";
+
+/* Valentine*/
+"Valentine" = "San Valentino";
+
+/* Ornaments */
+"Ornaments" = "Addobbi Natalizi";
+
+/* Basicss */
+"Basics" = "Essenziali";
+
+/* Easy */
+"Easy" = "Facile";
+
+/* Butterflies */
+"Butterflies" = "Farfalle";
+
+/* Butterflies I*/
+"Butterflies I" = "Farfalle I";
+
+/* Hearts */
+"Hearts" = "Cuori";
+
+/* Lighthouse */
+"Lighthouse" = "Faro";
+
+/* Sunset */
+"Sunset" = "Tramonto";
+
+/* Roses */
+"Roses" = "Rose";
+
+/* Astrology */
+"Astrology" = "Astrologia";
+
+/* Van Gogh */
+"Van Gogh" = "Van Gogh";
+
+/* Alice Wonderland */
+"Alice Wonderland" = "Meraviglie";
+
+/* Sea Shells */
+"Sea Shells" = "Conchiglie";
+
+/* Desserts */
+"Desserts" = "Dessert";
+
+/* Easter */
+"Easter" = "Pasqua";
+
+/* Fairytales */
+"Fairytales" = "Fiabe";
+
+/* Sunflowers */
+"Sunflowers" = "Girasole";
+
+/* Countries */
+"Countries" = "Paesi";
+
+/* Mountains */
+"Mountains" = "Montagne";
+
+/* Lakes */
+"Lakes" = "Laghi";
+
+/* Unicorns */
+"Unicorns" = "Unicorni";
+
+/* Famous people */
+"Famous People" = "Ccelebrità";
+
+/* Fruits */
+"Fruits" = "Frutta";
+
+/* Beach */
+"Beach" = "Spiaggia";
+
+/* Cities */
+"Cities" = "Città";
+
+/* Wonderland */
+"Wonderland" = "Wonderland";
+
+/* seasons */
+"Seasons" = "Stagioni";
+
+/* reflection */
+"Reflection" = "Citazioni";
+
+/* Collection */
+"Collection" = "Collezione";
+
+/* Vacation */
+"Vacation" = "Vacanze";
+
+/* Shoes */
+"Shoes" = "Scarpe";
+
+/* Dresses */
+"Dresses" = "Abiti";
+
+/* Costumes */
+"Costumes" = "Costumi";
+
+/* Plant Pots */
+"Plant Pots" = "Piante in Vaso";
+
+/* Succulents */
+"Succulents" = "Succulente";
+
+/* Succulents */
+"Succulents I" = "Succulente I";
+
+/* Carnival */
+"Carnival" = "Carnevale";
+
+/* Circus */
+"Circus" = "Circo";
+
+/* Tea Time */
+"Tea Time" = "Ora del Tè";
+"Tea time" = "Ora del Tè";
+
+/* Bath Time */
+"Bath Time" = "Ora del Bagno";
+"Bath time" = "Ora del Bagno";
+
+/* Zen Garden */
+"Zen Garden" = "Giadino Zen";
+"Zen garden" = "Giadino Zen";
+
+/* Pink */
+"Pink" = "Rosa";
+
+/* Halloween */
+"Halloween" = "Halloween";
+
+/* Halloween */
+"Halloween I" = "Halloween I";
+
+/* Halloween */
+"Halloween II" = "Halloween II";
+
+/* Chinese New Year */
+"Chinese New Year" = "Capodanno Cinese";
+
+"Beneath the Stars" = "Sotto le stelle";
+"Calm" = "Calma";
+"Dreams" = "Sogni";
+"Months" = "Mesi";
+"Summer Vacation" = "Vacanze Estive";
+"Summer vacation" = "Vacanze Estive";
+"Parrots" = "Pappagalli";
+"sunflowers" = "girasoli";
+"Turtles" = "Tartarughe";
+"Desserts I" = "Dolci I";
+"Father's Day" = "Festa del Papà";
+"Mother's Day" = "Festa della Mamma";
+"Peacocks" = "Pavoni";
+"Celestial Magic" = "Magia Celeste";
+"Sleep shanties" = "Ninna nanna";
+"Stories" = "Storie";
+"Mermaids" = "Sirene";
+"Dreamscape" = "Paesaggio da Sogno";
+"Imagine" = "Immaginare";
+"Cute" = "Carino";
+"Journey" = "Viaggio";
+"Islands" = "Isole";
+"Characters" = "Caratteri";
+"Enchanted" = "Incantato";
+"purple" = "Viola";
+"Purple" = "Viola";
+"Secret Garden" = "Giardino Segreto";
+"Secret garden" = "Giardino Segreto";
+"Lizards" = "Lucertole";
+"Owls" = "Gufi";
+"Wind" = "Vento";
+"Retro" = "Retrò";
+
+"Mystic Garden" = "Giardino Mistico";
+"Mystic garden" = "Giardino Mistico";
+"Forest" = "Foresta";
+"Spring" = "Molla";
+"Wild West" = "Selvaggio West";
+"Wild west" = "Selvaggio West";
+"Cheers" = "Saluti";
+"Dancing" = "Danza";
+"Enchanter" = "Incantevole";
+"Recharge" = "Riposo";
+"Memories" = "Ricordi";
+"Santuary" = "Santuario";
+"Mermaids" = "Sirena";
+"Crystal" = "Cristalli";
+"Constellation" = "Costellazioni";
+"Cupcakes" = "Cupcakes";
+"Morning" = "Mattina";
+"Masquerade" = "Mascherata";
+"Earth Day" = "Giorno della Terra";
+"Storms" = "Tempeste";
+"Koi" = "Koi";
+"Waves" = "Onde";
+"Waterfalls" = "Cascate";
+"Ocean" = "Oceano";
+"Mushroom" = "Fungi";
+"Seaside" = "Città di Mare";
+"Moonlight" = "Chiaro di Luna";
+"Bridge" = "Ponte";
+"Escape" = "Fuga";
+"Flowers I" = "Fiori I";
+"Flowers II" = "Fiori II";
+"Flowers Ii" = "Fiori II";
+"New Beginning" = "Nuovo Inizio";
+"New beginning" = "Nuovo Inizio";
+"Snowscape" = "Paesaggio Innevato";
+"Rain" = "Piovere";
+"Lost ocean" = "Oceano Perduto";
+"Lost Ocean" = "Oceano Perduto";
+"Winter" = "Inverno";
+
+"Autumn I" = "Autunno I";
+"Autumn II" = "Autunno II";
+"Autumn III" = "Autunno III";
+"Africa" = "Africa";
+"Magic potions" = "Pozione Magica";
+"Magic Potions" = "Pozione Magica";
+"Amulets" = "Amuleti";
+"Portals" = "Portali";
+"Fields" = "Praterie";
+"Moments" = "Momenti";
+"Night Sky" = "Cielo Notturno";
+"Night sky" = "Cielo Notturno";
+"Antiques" = "Antiquariato";
+"Bloom" = "Fioritura";
+"Paradise" = "Paradiso";
+"Peaks" = "Picchi";
+"Serenity" = "Serenità";
+"Endangered Species" = "Specie in Pericolo";
+"Endangered species" = "Specie in Pericolo";
+
+/* v5.2*/
+"Autumn Leaves" = "Foglie d'Autunno";
+"Autumn leaves" = "Foglie d'Autunno";
+"European Cities" = "Città Europee";
+"European cities" = "Città Europee";
+"Hot Air Balloons" = "Mongolfiera";
+"Hot air balloons" = "Mongolfiera";
+"Arctic" = "Artico";
+"Winter Moments" = "Orario Invernale";
+"Winter moments" = "Orario Invernale";
+"Christmas Balls" = "Palla di Natale";
+"Christmas balls" = "Palla di Natale";
+"Christmas Forest" = "Foresta di Natale";
+"Christmas forest" = "Foresta di Natale";
+"France" = "Francia";
+"Circus I" = "Circo I";
+"Planets" = "Pianeta";
+"Keys" = "Chiavi";
+"Style I" = "Stile I";
+"Mindfulness" = "Consapevolezza";
+"Aromatherapy" = "Aromaterapia";
+"Blue" = "Blu";
+"Zentangle" = "Zentagle";
+"Spain" = "Spagna";
+"Faces" = "Facce";
+"Retro I" = "Retrò I";
+"Magic School" = "Scuola di Magia";
+"Magic school" = "Scuola di Magia";
+"Feathers" = "Piume";
+"Alphabet" = "Alfabeto";
+"Spring Blooms" = "Fiori di Primavera";
+"Spring blooms" = "Fiori di Primavera";
+"Mother's Love" = "L'amore della Madre";
+"Mother's love" = "L'amore della Madre";
+"Flower Mandala" = "Mandala Fiore";
+"Flower mandala" = "Mandala Fiore";
+"Bonsai" = "Bonsai";
+"Rainbow" = "Arcobaleno";
+"Affirmations" = "Affermazione";
+"Orchids" = "Orchidee";
+"Stained Glass" = "Vetro Macchiato";
+"Stained glass" = "Vetro Macchiato";
+"Magic World" = "Mondi Magici";
+"Magic world" = "Mondi Magici";
+"Sunset I" = "Tramonto I";
+"Yellow" = "Giallo";
+"Tropical" = "Tropicale";
+"Moon" = "Luna";
+"Fans" = "Ventaglio";
+"Nautical love" = "Amore Nautico";
+"Nautical Love" = "Amore Nautico";
+"Holiday dreams" = "Vacanza di Sogni";
+"Holiday Dreams" = "Vacanza di Sogni";
+"Living in Nature" = "Spazio Naturale";
+"Living in nature" = "Spazio Naturale";
+
+
+
+/* Enjoy Pixel Color? */
+"Enjoy Pixel Color?" = "Ti piace l'app?";
+
+/* Gives us a happy face */
+"Gives us a happy face" = "";
+
+/* Give us a good rating to encourage us! */
+"Give us a good rating to encourage us!" = "Dacci una buona recensione per incoraggiarci";
+
+/* feedback */
+"feedback" = "Feedback";
+
+/* 5 stars */
+"5 stars" = "5 Stelle";
+
+/* Unlock over 100 pictures */
+"Unlock over 100 pictures" = "Unlock over 60 pictures";
+
+/* They are yours to keep */
+"They are yours to keep" = "They are yours to keep";
+
+/* No recurring fee */
+"No recurring fee" = "No recurring fee";
+
+/* Unlock Starter Pack */
+"Unlock Starter Pack" = "Unlock Starter Pack";
+
+/* 7 Days Free */
+"7 Days Free" = "7 Giorni gratis";
+
+/* 1 week for */
+"1 week for" = "1 settimana per";
+
+/* 1 month for */
+"1 month for" = "1 mese per";
+
+/* 1 year for */
+"1 year for" = "1 anno per";
+
+/* / Week */
+"/ Week" = "/settimana";
+
+/* / Month */
+"/ Month" = "/mese";
+
+/* / Year */
+"/ Year" = "/anno";
+
+/* 1 week subscription */
+"1 week subscription" = "7 Giorni di Prova Gratuiti";
+
+"3 days free trial then" = "7 giorni di prova gratuiti, poi";
+"3 day free, then" = "7 giorni gratuiti, poi";
+
+"FREE TRIAL" = "PROVA GRATUITA";
+"Start Plan with Trial" = "Abbonamento Settimanale";
+
+"UNLOCK ALL PICTURES" = "Il tuo viaggio verso il relax";
+
+"Start Free Trial" = "Prova Gratuita";
+
+"Unlimited" = "Illimitato";
+"Free Trial" = "Prova Gratuita";
+"Get x " = "x ";
+"for" = "per";
+
+
+/* 1 month subscription */
+"1 month subscription" = "abbonamento mensile";
+
+/* 1 year subscription */
+"1 year subscription" = "abbonamento annuale";
+
+/* Get Pixel Coloring Pro for unlimited access to all pictures and updates */
+"Get Pixel Coloring Pro for unlimited access\nto all pictures and updates." = "Con Pixel Color Pro avrai accesso a\ntutte le foto e aggiornamenti";
+
+/* Join the community to access all pictures */
+"Join the community to access all pictures" = "Join the community to access all pictures";
+
+/* Terms & Privacy */
+"Terms & Privacy" = "Termini e Privacy";
+
+/* Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior\nto the end of the current period, and identify the cost of the renewal. */
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at least \n24-hours before the end of the current period. Account will \nbe charged for renewal within 24-hour prior to the \nend of the current period, and identify the cost of the renewal." = "L'abbonamento può essere gestito dall'utente ed è possibile \ndisabilitarlo dalle impostazioni dell'account dopo l'acquisto. \nIl tempo inutilizzato del periodo gratuito di prova, se offerto,\nverrà perso nel caso in cui l'utente acquisti un \nabbonamento di quella pubblicazione, ove applicabile.\nIl costo verrà addebitato sull'account di iTunes alla conferma \ndell'acquisto. L'abbonamento si rinnova automaticamente,\ntranne nel caso in cui il rinnovo automatico venga \ndisabilitato 24 ore prima della fine del relativo periodo. \nVerrà addebitato sull'account l'importo del rinnovo entro 24 ore \ndalla fine del periodo di prova.";
+
+"Subscription may be managed by the user and auto-renewal may be turned off by\n going to the user’s Account Settings after purchase. Any unused portion of a free trial period,\n if offered, will be forfeited when the user purchases a subscription to that publication,\n where applicable. Payment will be charged to iTunes Account at confirmation of purchase.\n Subscription automatically renews unless auto-renew is turned off at least 24-hours\n before the end of the current period. Account will be charged for renewal within 24-hour\n prior to the end of the current period, and identify the cost of the renewal." = "L'abbonamento può essere gestito dall'utente ed è possibile \ndisabilitarlo dalle impostazioni dell'account dopo l'acquisto. \nIl tempo inutilizzato del periodo gratuito di prova, se offerto,\nverrà perso nel caso in cui l'utente acquisti un \nabbonamento di quella pubblicazione, ove applicabile.\nIl costo verrà addebitato sull'account di iTunes alla conferma \ndell'acquisto. L'abbonamento si rinnova automaticamente,\ntranne nel caso in cui il rinnovo automatico venga \ndisabilitato 24 ore prima della fine del relativo periodo. \nVerrà addebitato sull'account l'importo del rinnovo entro 24 ore \ndalla fine del periodo di prova.";
+
+/* Notificaiton: Do you want to get notified\nwhen there are new pictures ready? */
+"Do you want to get notified\nwhen there are new pictures ready?" = "Ricevi le notifiche";
+
+/* Notification: Maybe Later */
+"Maybe Later" = "Più tardi";
+
+/* Notificaiton: YES */
+"YES" = "SÌ";
+
+/* My Work: Share */
+"Share" = "Condividere";
+
+/* My Work: Continue */
+"Continue" = "Continua";
+
+/* My Work: Delete */
+"Delete" = "Elimina";
+
+/* My Work: Cancel */
+"Cancel" = "Annulla";
+
+/* help docx */
+"help_base" = "help_italian";
+
+/* Oops */
+"Oops" = "Oops";
+
+/* No Internet Connection */
+"No Internet Connection" = "Nessuna Connessione Internet.";
+
+/* Please try again */
+"Please try again" = "Prova di nuovo.";
+
+/* Out of tips */
+"Out of tips" = "Indizi terminati";
+
+/* Out of Paint Buckets */
+"Out of Paint Buckets" = "Secchi di Pittura terminati";
+
+/* Out of Paint Pickers */
+"Out of Color Pickers" = "Selezionatori Terminati";
+
+/* Retry */
+"Retry" = "Riprova";
+
+/* To get 3 Tips */
+"To get 3 Tips" = "";
+
+/* To get 5 Paint Buckets */
+"To get 5 Paint Buckets" = "";
+
+/* To get 5 Paint Pickers */
+"To get 5 Color Pickers" = "";
+
+/* For Free */
+"For Free" = "Gratuitamente";
+
+/* Watch a video */
+"Watch a video" = "";
+
+/* Pixel Pro */
+"Pixel Pro" = "Pixel Pro";
+
+"Get your daily gift!" = "Ricevi il tuo regalo giornaliero!";
+"Today" = "Oggi";
+"Day 2" = "Giorno 2";
+"Day 3" = "Giorno 3";
+"Day 4" = "Giorno 4";
+"Day 5" = "Giorno 5";
+" x Hints" = " x Indizi";
+//"3 x Hints" = "3 x Hints";
+
+"Congratulations!" = "Bravo!";
+
+"You did it!" = "Ben fatto!";
+
+"Share your artwork" = "Condividi";
+
+"and get 5 more" = "ne ottieni altri 10";
+
+"You got 10 Paint Buckets." = "Hai 10 Secchi di Pittura.";
+
+"share to get 10 Paint Buckets" = "ottieni 10 Secchi di Pittura";
+
+// Amazing
+"Amazing!" = "⭐⭐⭐ Fantastico! ⭐⭐⭐";
+
+// Lets try some more
+"Let's try some more" = "Proviamone altri! 🙌";
+
+//Tutorial Screen:
+/* Tap 1 time for 1x zoom */
+"Tap 1 time for 1x zoom" = "Tocca una volta per zoom 1x";
+
+/* Tap 2 times for 2x zoom */
+"Tap 2 times for 2x zoom" = "Tocca due volte per zoom 2x";
+
+/* Pinch to zoom in */
+"Pinch to zoom in" = "Pizzica per zoomare";
+
+/* and zoom out */
+"and zoom out" = "in avanti e indietro";
+
+/* Select color in palette */
+"Select color in palette" = "Colora le caselle con i numeri";
+
+/* and color boxes with */
+"and color boxes with" = "corrispondenti nella palette";
+
+/* matching numbers */
+"matching numbers" = "";
+
+/* Use long tap to color */
+"Use long tap to color" = "Premi a lungo per colorare";
+
+/* consecutive boxes */
+"consecutive boxes" = "caselle consecutive";
+
+/* Tap Paint Bucket */
+"Tap Paint Bucket" = "Utilizza il Secchio di Pittura";
+
+/* to color large area */
+"to color large area" = "per pitturare una grande area";
+
+/* Tap Hint to help */
+"Tap Hint to help" = "Usa l'Indizio";
+
+/* finding where to color */
+"finding where to color" = "per trovare dove colorare";
+
+/* Tap Paint Picker to */
+"Tap Paint Picker to" = "Tocca e tieni premuto un casell";
+
+/* auto-select color */
+"auto-select color" = "per autoselezionare il colore";
+
+/* in palette */
+"in palette" = "";
+
+
+/* news */
+"news" = "News";
+
+/* open */
+"Open" = "Clicca";
+
+/* news */
+"Don't miss out on new design" = "Iscriviti per ricevere notifiche";
+
+"Sign up for notifications" = "Ottieni 15 Secchi di Pittura";
+
+/* Share with Friends */
+"Share with Friends" = "Condividi con Amici";
+
+/* Share with Friends */
+"Both of you get bonus images" = "Entrambi riceverete delle immagini bonus";
+
+
+/* Join our facebook community */
+"Join our facebook community" = "Unisciti alla nostra comunità Facebook";
+
+/* Find exclusive images */
+"find exclusive images" = "Trova immagini esclusive";
+
+
+/* Join our Instagram community */
+"Join our Instagram community" = "Unisciti alla nostra comunità Instagram";
+
+/* share your work */
+"Share your work" = "Condividi il tuo lavoro";
+
+/* Vote on future design */
+"Vote on future design" = "Vota il design del futuro";
+
+/* We are listening */
+"We are listening" = "Facci sapere";
+
+/* copy hastag */
+"copy hashtag" = "copia l'hashtag#";
+
+
+/* copied */
+"copied" = "copiato!";
+
+"Booster Pack for friends" = "Inviare Secchi di Pittura agli amici";
+"Daily booster pack for  friends" = "Ottieni un buon karma";
+"Send" = "Invia";
+
+"You have reached the daily limit. Try again tomorrow" = "Hai raggiunto il limite giornaliero. Per favore riprova domani";
+
+/*Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior*/
+
+
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior" = "L'abbonamento può essere gestito dall'utente ed è possibile disabilitarlo dalle impostazioni dell'account dopo l'acquisto. Il tempo inutilizzato del periodo gratuito di prova, se offerto, verrà perso nel caso in cui l'utente acquisti un abbonamento di quella pubblicazione, ove applicabile. Il costo verrà addebitato sull'account di iTunes alla conferma dell'acquisto. L'abbonamento si rinnova automaticamente, tranne nel caso in cui il rinnovo automatico venga disabilitato 24 ore prima della fine del relativo periodo. Verrà addebitato sull'account l'importo del rinnovo entro 24 ore dalla fine del periodo di prova.";
+
+"Simply relax and color.\nSee your beautiful artwork comes to life\nAccess to all pictures and unlimited paint tools" = "Con Pixel Color Pro avrai\naccesso a tutte le foto";
+
+"No commitment. Cancel anytime." = "Senza impegno. Cancella in qualsiasi momento.";
+
+"Your video is successfully saved" = "La tua immagine è stata salvata con successo";
+
+"Your image is successfully saved" = "Il tuo video è stato salvata con successo";
+"By tapping Continue, you are confirming that you reviewed and accepted our Terms Of Use and Privacy Policy." = "Cliccando su Continua, confermi di aver esaminato e accettato i nostri Termini d'uso e l'Informativa sulla privacy.";
+"Welcome" = "Benvenuto";
+"Our app serves ads to help us\n provide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window.\n\nBy tapping Continue, you are\nconfirming that you reviewed and\naccepted our Terms Of Use and\nPrivacy Policy." = "Cliccando su Continua, confermi di aver letto e accettato i nostri Termini d'Uso e l'Informativa sulla Privacy.";
+"Accept" = "Accetta";
+"More Info" = "Ulteriori informazioni";
+"Our app serves ads to help us\nprovide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window." = "La nostra app mostra pubblicità\nper aiutarci ad offrire alcuni contenuti\ngratuitamente. In caso di consenso\ndel monitoraggio,\nverranno visualizzate pubblicità personalizzate\nal posto di pubblicità noiose.\nClicca su “Consenti tracciamento”\nnella prossima finestra.";
+
+// Bonus
+"CLAIM" = "Ricevilo";
+"Claim" = "Ricevilo";
+"Success!" = "Ottimo!";
+"Bonus pack has been\nunlocked! Check it out at\nBonus section." = "Il pacchetto bonus è stato sbloccato!\nDai un'occhiata alla sezione Bonus.";
+
+"You need to update notification permission, Go to Settings and choose to allow access to your location." = "Devi aggiornare l'autorizzazione di notifica, vai su Impostazioni e scegli di consentire l'accesso alla tua posizione.";
+"Alert:" = "Mettere in guardia:";
+"Open Setting" = "Apri Impostazioni";
+
+// Local Notification
+"Use the power of now!" = "💪 Utilizza il potere dell'adesso!";
+"It is perfect time to finish your" = "È il momento perfetto per completare il tuo lavoro in";
+
+"Sorry to see you go!" = "Sorry to see you go!";
+"\nWe’ll stop collecting your data\nin this game when you select “QUIT”.\nIf you change your mind,\nyou can continue playing at any time.\nNote: When you revisit the app,\nwe will ask for your consent once again." = "We’ll stop collecting your data in this game when you select “QUIT”.\n  If you change your mind, you can continue playing at any time.\n  Note: When you revisit the app, we will ask for your consent once again.";
+"QUIT" = "QUIT";
+
+//Paint Note
+"New Paint Bucket!" = "Nuovi Secchi di Pittura";
+"Feature can be turned" = "La funzione può essere";
+"off at Settings" = "modificata nelle Impostazioni";
+
+//Settings
+"Paint Bucket" = "Secchi di Pittura";
+"Extended" = "Esteso";
+"Normal" = "Normale";
+
+"It's time to relax" = "È ora di rilassarsi";
+"Get started" = "Iniziare";
+
+
+"You have received a booster pack" = "Hai ricevuto un Booster (30 Secchi di Pittura)";
+"You have reached your daily limit" = "Hai raggiunto il limite giornaliero";
+
+"Editor's Picks" = "Scelti dall'editore";
+"Explore" = "Esplora";
+"Recent" = "Recente";
+"Journey" =  "Viaggio";
+"Collections" = "Collezioni";
+"Your journey to relexation begins here" = "Il tuo viaggio verso il relax inizia qui";
+"Start Trial" = "Inizia la prova gratuita";
+"Use the bomb to color\neverything around" = "Usa la bomba per \ncolorare tutto intorno";
+
+
+/*updated subscription */
+"Weekly" = "Settimanalmente";
+"Monthly" = "Mensile";
+"Annual" = "Annuale";
+"Start Now" = "Inizia a lavorare";
+"Begin Now" = "Inizia a lavorare";
+
+"Weekly Subscription" = "Abbonamento settimanale";
+"Monthly Subscription" = "Abbonamento mensile";
+"Yearly Subscription" = "Abbonamento annuale";
+
+"Take me to New Category" = "Portami alla Pagina Nuovo";
+"Go!" = "Andare!";
+
+"Add New Category" = "Aggiungi nuova categoria";
+"NEW" = "NUOVO";
+"Get your daily mystery gift" = "Ottieni il tuo regalo\nmisterioso quotidiano";
+"You got 15 Paint Buckets and 15 Hints!" = "Hai 15 Secchi di Pittura, e 15 Indizi!";
+"You got 10 Paint Buckets and 10 Hints!" = "Hai 10 Secchi di Pittura, e 10 Indizi!";
+"You got 5 Hints" = "Hai 5 Indizi";
+"You got 15 Hints" = "Hai 15 Indizi";
+"You got 10 Hints" = "Hai 10 Indizi";
+"You got 5 Paint Buckets" = "Hai 5 Secchi di Pittura";
+"You got 15 Paint Buckets" = "Hai 15 Secchi di Pittura";
+"You got 10 Paint Buckets" = "Hai 10 Secchi di Pittura";
+"You got 5 Paint Buckets" = "Hai 5 Secchi di Pittura";
+"You got a Booster" = "Hai un Booster di 30 Secchi di Pittura";
+
+/* Explore Screen - View*/
+"All Collections" = "Tutte le Collezioni";
+"View All Collections" = "Tutte";

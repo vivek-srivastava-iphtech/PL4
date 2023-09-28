@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>318121930780-fe13d7br5oac2n5dg2m9gmletjm5gsld.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.318121930780-fe13d7br5oac2n5dg2m9gmletjm5gsld</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIMkG0T-cCiaG7gw4nShfiYrXAYr5ltus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>318121930780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.moomoolab.pl3</string>
+	<key>PROJECT_ID</key>
+	<string>pl3-mosaic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pl3-mosaic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>FIREBASE_ANALYTICS_COLLECTION_DEACTIVATE</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:318121930780:ios:5983366c128fff95</string>
+	<key>DATABASE_URL</key>
+	<string>https://pl3-mosaic.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-7682495659460581~6281920678</string>
+</dict>
+</plist>

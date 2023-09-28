@@ -1,0 +1,871 @@
+/*
+  Localizable.strings
+  PL2
+
+  Created by Lekha Mishra on 12/18/17.
+  Copyright © 2017 IPHS Technologies. All rights reserved.
+*/
+
+/* My Work */
+"My Work" = "私の仕事";
+
+/* Tutorial */
+"Tutorial" = "説明";
+
+/* Contact */
+"Contact" = "連絡";
+
+/* Restore */
+"Restore" = "リストア";
+
+/* About */
+"About" = "情報";
+
+/* Pages */
+"Pages" = "ギャラリー";
+
+/* Settings */
+"Settings" = "設定";
+
+/* Help */
+"Help" = "ヘルプ";
+
+/* Subscription */
+"Subscription" = "購入";
+
+/* New & Popular */
+"New" = "新着";
+
+/* Popular */
+"Popular" = "人気";
+
+/* Bonus */
+"Bonus" = "ボーナス";
+
+/* Awakening */
+"Awakening" = "目覚め";
+
+/* Tree of Life */
+"Tree of Life" = "命の木";
+
+/* Fairyland */
+"Fairyland" = "おとぎの国";
+
+/* Holidays */
+"Holidays" = "祝日";
+
+/* Cats */
+"Cats" = "猫";
+
+/* Dogs */
+"Dogs" = "犬";
+
+/* Emoji */
+"Emoji" = "絵文字";
+
+/* Food */
+"Food" = "グルメ";
+
+/* Scenery */
+"Scenery" = "風景";
+
+/* Celebrations */
+"Celebration" = "お祝い";
+
+/* People */
+"People" = "人";
+
+/* Plants and Flowers */
+"Plants & flowers" = "植物と花";
+"Plants & Flowers" = "植物と花";
+/* Words */
+"Words" = "文字";
+
+/* Space */
+"Space" = "スペース";
+
+/* Wild Animals */
+"Wild animals" = "動物";
+"Wild Animals" = "動物";
+/* Art */
+"Art" = "芸術";
+
+/* Architecture */
+"Architecture" = "建築";
+
+/* Bugs */
+"Bugs" = "虫";
+
+/* Pattern */
+"Pattern" = "パターン";
+
+/* Sea life */
+"Sea life" = "海の生物";
+"Sea Life" = "海の生物";
+
+/* Aquarium */
+"Aquarium" = "水族館";
+
+/* Sports */
+"Sports" = "スポーツ";
+
+/* Mythology */
+"Mythology" = "神話";
+
+/* Birds */
+"Birds" = "鳥";
+
+/* Fantasy */
+"Fantasy" = "ファンタジー";
+
+/* Funny */
+"Funny" = "面白いこと";
+
+/* For Kids */
+"For Kids" = "子供向け";
+
+/* Nature */
+"Nature" = "自然";
+
+/* Places */
+"Places" = "ロケーション";
+
+/* Mandalas */
+"Mandalas" = "マンダラ";
+
+/* Transportation */
+"Transportation" = "交通手段";
+
+/* Holiday Special */
+"Holiday Special" = "Holiday Special";
+
+/* Christmas Special */
+"Christmas" = "クリスマス";
+
+/* Christmas I*/
+"Christmas I" = "クリスマス I";
+
+/* Christmas II*/
+"Christmas II" = "クリスマス II";
+"Christmas Ii" = "クリスマス II";
+"Christmas Iii" = "クリスマス III";
+"Christmas III" = "クリスマス III";
+"Christmas IV" = "クリスマス IV";
+"Christmas Iv" = "クリスマス IV";
+
+"Vintage" = "クリスマス ビンテージ";
+
+/* Advent Calendar */
+"Advent Calendar" = "アドベントカレンダー";
+"Advent calendar" = "アドベントカレンダー";
+
+/* Special Day */
+"Special Day" = "祭日";
+
+/* Day of the Dead */
+"Day of the Dead" = "死霊のえじき";
+"Day of the dead" = "死霊のえじき";
+
+/* Knitted Items */
+"Knitted Items" = "編み物";
+"Knitted items" = "編み物";
+
+/* Holiday Wreaths */
+"Holiday Wreaths" = "ホリデーリース";
+"Holiday wreaths" = "ホリデーリース";
+
+/* Wreaths */
+"Wreaths" = "リース";
+
+/* Beetles */
+"Beetles" = "カブトムシ";
+
+/* Hanukkah */
+"Hanukkah" = "ハヌカー";
+
+/* TV and Games */
+"TV & Games" = "テレビゲーム";
+
+/* Characters */
+"Characters" = "キャラクター";
+
+/* Fashion */
+"Fashion" = "ファッション";
+
+/* Things */
+"Things" = "色々な物";
+
+/* Horses */
+"Horses" = "馬";
+
+/* Ornaments */
+"Ornaments" = "飾り物";
+
+/* Thanksgiving */
+"Thanksgiving" = "感謝祭";
+
+/* Valentine*/
+"Valentine" = "バレンタインデー";
+
+/* Basicss */
+"Basics" = "基本";
+
+/* Easy */
+"Easy" = "簡単";
+
+/* Butterflies */
+"Butterflies" = "蝶々";
+
+/* Butterflies I*/
+"Butterflies I" = "蝶々 I";
+
+/* Hearts */
+"Hearts" = "ハート";
+
+/* Lighthouse */
+"Lighthouse" = "灯台";
+
+/* Sunset */
+"Sunset" = "日没";
+
+/* Roses */
+"Roses" = "バラ";
+
+/* Astrology */
+"Astrology" = "星座";
+
+/* Van Gogh */
+"Van Gogh" = "ゴッホ";
+
+/* Alice Wonderland */
+"Alice Wonderland" = "ワンダーランド";
+
+/* Sea Shells */
+"Sea Shells" = "貝殻";
+
+/* Desserts */
+"Desserts" = "デザート";
+
+/* Easter */
+"Easter" = "イースター";
+
+/* Fairytales */
+"Fairytales" = "おとぎ話";
+
+/* Sunflowers */
+"Sunflowers" = "ひまわり";
+"sunflowers" = "ひまわり";
+
+/* Countries */
+"Countries" = "国";
+
+/* Mountains */
+"Mountains" = "山";
+
+/* Lakes */
+"Lakes" = "湖";
+
+/* Unicorns */
+"Unicorns" = "ユニコーン";
+
+/* Famous people */
+"Famous People" = "有名人";
+
+/* Fruits */
+"Fruits" = "フルーツ";
+
+/* Beach */
+"Beach" = "ビーチ";
+
+/* Cities */
+"Cities" = "都市";
+
+/* Wonderland */
+"Wonderland" = "ワンダーランド";
+
+/* seasons */
+"Seasons" = "季節";
+
+/* reflection */
+"Reflection" = "モットー";
+
+/* Collection */
+"Collection" = "コレクション";
+
+/* Vacation */
+"Vacation" = "休暇";
+
+/* Shoes */
+"Shoes" = "靴";
+
+/* Dresses */
+"Dresses" = "ドレス";
+
+/* Costumes */
+"Costumes" = "コスチューム";
+
+/* Plant Pots */
+"Plant Pots" = "鉢植え";
+
+/* Succulents */
+"Succulents" = "多肉植物";
+
+/* Succulents */
+"Succulents I" = "多肉植物 I";
+
+/* Carnival */
+"Carnival" = "カーニバル";
+
+/* Circus */
+"Circus" = "サーカス";
+
+/* Tea Time */
+"Tea Time" = "お茶の時間";
+"Tea time" = "お茶の時間";
+
+/* Bath Time */
+"Bath Time" = "風呂";
+"Bath time" = "風呂";
+
+/* Zen Garden */
+"Zen Garden" = "禅ガーデン";
+
+/* Pink */
+"Pink" = "ピンク";
+
+/* Halloween */
+"Halloween" = "ハロウィン";
+
+/* Halloween */
+"Halloween I" = "ハロウィン I";
+
+/* Halloween */
+"Halloween II" = "ハロウィン II";
+
+/* Chinese New Year */
+"Chinese New Year" = "旧正月";
+
+"Beneath the Stars" = "星の下";
+"Calm" = "リラックス";
+"Dreams" = "ドリームランド";
+"Months" = "月";
+"Summer Vacation" = "ビーチ休暇";
+"Summer vacation" = "ビーチ休暇";
+"Parrots" = "オウム";
+"Turtles" = "カメ";
+"Desserts I" = "デザート I";
+"Father's Day" = "父の日";
+"Mother's Day" = "母の日";
+"Peacocks" = "クジャク";
+"Celestial Magic" = "天の魔法";
+"Sleep shanties" = "子守唄";
+"Stories" = "ストーリー";
+"Mermaids" = "人魚";
+"Dreamscape" = "夢のような光景";
+"Imagine" = "想像";
+"Dreamlande" = "夢の国";
+"Cute" = "かわいい";
+"Journey" = "旅";
+"Islands" = "島々";
+"Characters" = "人物";
+"Enchanted" = "魅惑の森";
+"purple" = "紫の";
+"Purple" = "紫の";
+"Secret Garden" = "秘密の花園";
+"Secret garden" = "秘密の花園";
+"Lizards" = "トカゲ";
+"Owls" = "フクロウ";
+"Wind" = "風";
+"Retro" = "レトロ";
+
+"Mystic Garden" = "神秘的な庭";
+"Mystic garden" = "神秘的な庭";
+"Forest" = "森林";
+"Spring" = "春";
+"Wild West" = "西部";
+"Wild west" = "西部";
+"Cheers" = "乾杯";
+"Dancing" = "ダンス";
+"Enchanter" = "魔法使い";
+"Recharge" = "休息";
+"Memories" = "記憶";
+"Santuary" = "サンクチュアリ";
+"Mermaids" = "人魚";
+"Crystal" = "クリスタル";
+"Constellation" = "海の星座";
+"Cupcakes" = "カップケーキ";
+"Morning" = "朝";
+"Masquerade" = "仮面舞踏会";
+"Earth Day" = "アースデー";
+"Storms" = "嵐";
+"Koi" = "鯉";
+"Waves" = "海の波";
+"Waterfalls" = "滝";
+"Ocean" = "海";
+"Mushroom" = "キノコ";
+"Seaside" = "海岸";
+"Moonlight" = "月光";
+"Bridge" = "橋";
+"Escape" = "エスケープ";
+"Flowers I" = "花 I";
+"Flowers II" = "花 II";
+"Flowers Ii" = "花 II";
+"New Beginning" = "新たな始まり";
+"New beginning" = "新たな始まり";
+"Snowscape" = "雪景色";
+"Rain" = "雨";
+"Lost ocean" = "失われた海";
+"Lost Ocean" = "失われた海";
+"Winter" = "冬";
+
+"Autumn I" = "秋 I";
+"Autumn II" = "秋 II";
+"Autumn III" = "秋 III";
+"Africa" = "アフリカ";
+"Magic potions" = "魔法の水";
+"Magic Potions" = "魔法の水";
+"Amulets" = "お守り";
+"Portals" = "ポータル";
+"Fields" = "田畑";
+"Moments" = "瞬間";
+"Night Sky" = "夜空";
+"Night sky" = "夜空";
+"Antiques" = "アンティーク";
+"Bloom" = "咲く";
+"Paradise" = "天気";
+"Peaks" = "ピーク";
+"Serenity" = "静寂";
+"Endangered Species" = "絶滅危惧種";
+"Endangered species" = "絶滅危惧種";
+
+/* v5.2*/
+"Autumn Leaves" = "紅葉";
+"Autumn leaves" = "紅葉";
+"European Cities" = "ヨーロッパの都市";
+"European cities" = "ヨーロッパの都市";
+"Hot Air Balloons" = "熱気球";
+"Hot air balloons" = "熱気球";
+"Arctic" = "北極";
+"Winter Moments" = "冬の時間";
+"Winter moments" = "冬の時間";
+"Christmas Balls" = "クリスマスボール";
+"Christmas balls" = "クリスマスボール";
+"Christmas Forest" = "クリスマスの森";
+"Christmas forest" = "クリスマスの森";
+"France" = "フランス";
+"Circus I" = "サーカス I";
+"Planets" = "惑星";
+"Keys" = "カギ";
+"Style I" = "スタイル I";
+"Mindfulness" = "マインドフルネス";
+"Aromatherapy" = "アロマテラピー";
+"Blue" = "青";
+"Zentangle" = "ゼンタングル";
+"Spain" = "スペイン";
+"Faces" = "顔";
+"Retro I" = "レトロ I";
+"Magic School" = "魔法学校";
+"Magic school" = "魔法学校";
+"Feathers" = "羽";
+"Alphabet" = "アルファベット";
+"Spring Blooms" = "春の花";
+"Spring blooms" = "春の花";
+"Mother's Love" = "母の愛";
+"Mother's love" = "母の愛";
+"Flower Mandala" = "花曼荼羅";
+"Flower mandala" = "花曼荼羅";
+"Bonsai" = "盆栽";
+"Rainbow" = "虹";
+"Affirmations" = "アファメーション";
+"Orchids" = "蘭";
+"Stained Glass" = "ステンドグラス";
+"Stained glass" = "ステンドグラス";
+"Magic World" = "魔法の世界";
+"Magic world" = "魔法の世界";
+"Sunset I" = "日没 I";
+"Yellow" = "黄色";
+"Tropical" = "トロピカル";
+"Moon" = "月";
+"Fans" = "扇子";
+"Nautical love" = "航海の愛";
+"Nautical Love" = "航海の愛";
+"Holiday dreams" = "夢の休暇";
+"Holiday Dreams" = "夢の休暇";
+"Living in Nature" = "自然な空間";
+"Living in nature" = "自然な空間";
+
+
+/* Enjoy Pixel Color? */
+"Enjoy Pixel Color?" = "このアプリが好き？";
+
+/* Gives us a happy face */
+"Gives us a happy face" = "";
+
+/* Give us a good rating to encourage us! */
+"Give us a good rating to encourage us!" = "是非、素敵な評価をください";
+
+/* feedback */
+"feedback" = "コメント";
+
+/* 5 stars */
+"5 stars" = "5つ星レビュー";
+
+/* Unlock over 100 pictures */
+"Unlock over 100 pictures" = "60枚の写真をアンロック";
+
+/* They are yours to keep */
+"They are yours to keep" = "あなたのものです";
+
+/* No recurring fee */
+"No recurring fee" = "再度料金かかりません";
+
+/* Unlock Starter Pack */
+"Unlock Starter Pack" = "スターターパックをアンロック";
+
+/* 7 Days Free */
+"7 Days Free" = "７日間無料";
+
+/* 1 week for */
+"1 week for" = "一週間$x";
+
+/* 1 month for */
+"1 month for" = "1ヶ月";
+
+/* 1 year for */
+"1 year for" = "1年";
+
+/* / Week */
+"/ Week" = "/週";
+
+/* / Month */
+"/ Month" = "/月";
+
+/* / Year */
+"/ Year" = "/年";
+
+/* 1 week subscription */
+"1 week subscription" = "7日無料お試し";
+
+"3 days free trial then" = "7日間無料の後 ";
+"3 day free, then" = "7日間無料の後";
+
+"FREE TRIAL" = "無料お試し";
+"Start Plan with Trial" = "一週間分購入";
+
+"UNLOCK ALL PICTURES" = "禅の旅がここから始まる";
+
+"Start Free Trial" = "無料お試";
+
+"Unlimited" = "無制限";
+"Free Trial" = "無料お試し";
+"Get x " = "x ";
+"for" = " ";
+
+
+/* 1 month subscription */
+"1 month subscription" = "一ヶ月分購入";
+
+/* 1 year subscription */
+"1 year subscription" = "一年分購入";
+
+/* Get Pixel Coloring Pro for unlimited access to all pictures and updates */
+"Get Pixel Coloring Pro for unlimited access\nto all pictures and updates." = "すべての写真やアップデートに無制限で\nアクセスできるPixel Color  Proを入手する";
+
+/* Join the community to access all pictures */
+"Join the community to access all pictures" = "Join the community to access all pictures";
+
+/* Terms & Privacy */
+"Terms & Privacy" = "利用規約";
+
+/* Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior\nto the end of the current period, and identify the cost of the renewal. */
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user’s Account Settings\nafter purchase. Any unused portion of a free trial period, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomatically renews unless auto-renew is turned off at least \n24-hours before the end of the current period. Account will \nbe charged for renewal within 24-hour prior to the \nend of the current period, and identify the cost of the renewal." = "ユーザーの方はサブスクリプションをご自分で管理できます。自動\n更新は、購入後にアカウント設定でオフにすることができます。\n無料試用期間中であれば、サブスクリプション購入時に失効します。\nお支払いは購入時にiTunesアカウントに請求されます。\n購読は自動更新が失効より２４時間前までにオフになっていなければ、\n自動的に更新されます。更新されると、２４時間以内\nに確定額が請求されます。";
+
+"Subscription may be managed by the user and auto-renewal may be turned off by\n going to the user’s Account Settings after purchase. Any unused portion of a free trial period,\n if offered, will be forfeited when the user purchases a subscription to that publication,\n where applicable. Payment will be charged to iTunes Account at confirmation of purchase.\n Subscription automatically renews unless auto-renew is turned off at least 24-hours\n before the end of the current period. Account will be charged for renewal within 24-hour\n prior to the end of the current period, and identify the cost of the renewal." = "ユーザーの方はサブスクリプションをご自分で管理できます。自動\n更新は、購入後にアカウント設定でオフにすることができます。\n無料試用期間中であれば、サブスクリプション購入時に失効します。\nお支払いは購入時にiTunesアカウントに請求されます。\n購読は自動更新が失効より２４時間前までにオフになっていなければ、\n自動的に更新されます。更新されると、２４時間以内\nに確定額が請求されます。";
+
+/* Notification: Do you want to get notified\nwhen there are new pictures ready? */
+"Do you want to get notified\nwhen there are new pictures ready?" = "新しい画像が入ったら\n通知を受け取りますか？";
+
+/* Notification: Maybe Later */
+"Maybe Later" = "後で";
+
+/* Notificaiton: YES */
+"YES" = "はい";
+
+/* My Work: Share */
+"Share" = "シェア";
+
+/* My Work: Continue */
+"Continue" = "続ける";
+
+/* My Work: Delete */
+"Delete" = "削除";
+
+/* My Work: Cancel */
+"Cancel" = "キャンセル";
+
+/* help docx */
+"help_base" = "help_japanese";
+
+/* Oops */
+"Oops" = "残念";
+
+/* No Internet Connection */
+"No Internet Connection" = "インターネットに接続されていません";
+
+/* Please try again */
+"Please try again" = "再度お試しください";
+
+/* Out of tips */
+"Out of tips" = "ヒント切れ";
+
+/* Out of Paint Buckets */
+"Out of Paint Buckets" = "ペンキバケツ切れ";
+
+/* Out of Paint Pickers */
+"Out of Color Pickers" = "ペインターピッカーがありません";
+
+/* Retry */
+"Retry" = "リトライ";
+
+/* To get 3 Tips */
+"To get 3 Tips" = "";
+
+/* To get 5 Paint Buckets */
+"To get 5 Paint Buckets" = "";
+
+/* To get 5 Paint Pickers */
+"To get 5 Color Pickers" = "";
+
+/* For Free */
+"For Free" = "無料お試し";
+
+/* Watch a video */
+"Watch a video" = "";
+
+/* Pixel Pro */
+"Pixel Pro" = "Pixel Pro";
+
+"Get your daily gift!" = "毎日の贈り物!";
+"Today" = "今日";
+"Day 2" = "2日目";
+"Day 3" = "3日目";
+"Day 4" = "4日目";
+"Day 5" = "5日目";
+" x Hints" = " x ヒント";
+//"3 x Hints" = "3 x Hints";
+
+"Congratulations!" = "上手にできたね!";
+
+"You did it!" = "できたね!";
+
+"Share your artwork" = "作品をシェアして";
+
+"and get 5 more" = "あと10つゲットしよう";
+
+"You got 10 Paint Buckets." = "ペイントバケツを\n10個ゲットしたよ";
+
+"share to get 10 Paint Buckets" = "ペンキを10個ゲットしよう";
+
+// Amazing
+"Amazing!" = "⭐⭐⭐ 素晴らしい！⭐⭐⭐ ";
+// Lets try some more
+"Let's try some more" = "もう一回やってみよう 🙌";
+
+//Tutorial Screen:
+/* Tap 1 time for 1x zoom */
+"Tap 1 time for 1x zoom" = "1回タップして広角ズーム";
+
+/* Tap 2 times for 2x zoom */
+"Tap 2 times for 2x zoom" = "2回タップすると望遠ズーム";
+
+/* Pinch to zoom in */
+"Pinch to zoom in" = "ピンチでズームイン";
+
+/* and zoom out */
+"and zoom out" = "ズームアウト";
+
+/* Select color in palette */
+"Select color in palette" = "パレットで色を選び";
+
+/* and color boxes with */
+"and color boxes with" = "同じ数字が入った";
+
+/* matching numbers */
+"matching numbers" = "四角に色を塗ろう";
+
+/* Use long tap to color */
+"Use long tap to color" = "長押しすると並んだ";
+
+/* consecutive boxes */
+"consecutive boxes" = "四角に色を塗れます";
+
+/* Tap Paint Bucket */
+"Tap Paint Bucket" = "ペイントバケツを使って";
+
+/* to color large area */
+"to color large area" = "広いエリアをペイントしましょう";
+
+/* Tap Hint to help */
+"Tap Hint to help" = "ヒントを使って";
+
+/* finding where to color */
+"finding where to color" = "色を塗る場所を見つけよう";
+
+/* Tap Paint Picker to */
+"Tap Paint Picker to" = "四角をタッチして押さえ";
+
+/* auto-select color */
+"auto-select color" = "色を自動的に選択します";
+
+/* in palette */
+"in palette" = "";
+
+/* news */
+"news" = "ニュース";
+
+/* news */
+"Open" = "開く";
+
+/* Notification sign-up */
+"Don't miss out on new design" = "サインアップして通知を受け取り、";
+
+/* Notification sign-up */
+"Sign up for notifications" = "サインアップして15のペンキバケツを獲得！";
+
+/* Share with Friends */
+"Share with Friends" = "友達とシェアする";
+
+/* Share with Friends */
+"Both of you get bonus images" = "二人ともボーナス画像がもらえます";
+
+/* Join our facebook community */
+"Join our facebook community" = "Facebook コミュニティに
+参加してください";
+
+/* Find exclusive images */
+"find exclusive images" = "限定画像を探す";
+
+/* Join our Instagram community */
+"Join our Instagram community" = "Instagramコミュニティに
+参加してください";
+
+/* share your work */
+"Share your work" = "作品をシェアする";
+
+/* Vote on future design */
+"Vote on future design" = "将来のデザインに投票する";
+
+/* We are listening */
+"We are listening" = "声を聞かせてください";
+
+
+/* copy hastag */
+"copy hashtag" = "ハッシュタグのコピー";
+
+/* copied */
+"copied" = "コピー済";
+
+"Booster Pack for friends" = "お友達にペンキバケツを送る";
+"Daily booster pack for  friends" = "共有して良いカルマを得る";
+"Send" = "送信";
+"You have reached the daily limit. Try again tomorrow" = "今日のリミットに到達しました。明日またトライしてください";
+"You have received a booster pack" = "ブースターを受け取りました(30ペンキバケツを)";
+"You have reached your daily limit" = "今日のリミットに到達しました";
+
+/*Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior*/
+
+
+"Subscription may be managed by the user and auto-renewal\nmay be turned off by going to the user's Account Settings\nafter purchase. Any unused portion of a free trialperiod, if\noffered, will be forfeited when the user purchases a subscription\nto that publication, where applicable. Payment will be charged to\niTunes Account at confirmation of purchase. Subscription\nautomaticallyrenews unless auto-renewis turned off at\nleast 24-hours before the end of the current period.\nAccount will be charged for renewal within 24-hour prior" = "ユーザーの方はサブスクリプションをご自分で管理できます。\n自動更新は,購入後にアカウント設定\nでオフにすることができます。 無料お試し期間中\nであれば、サブスクリプション購入時に失効します。\nお支払いは購入時にiTunesアカウントに請求されます。\n定期購入は自動更新が失効する24時間\n前までにオフになっていない場合は、\n自動的に更新されます。更新されると、\n２４時間以内に確定額が請求されます。";
+
+
+"Simply relax and color.\nSee your beautiful artwork comes to life\nAccess to all pictures and unlimited paint tools" = "すべての写真やアップデート\n無制限のツールへのアクセスと\nPixel Color Proを入手";
+
+"No commitment. Cancel anytime." = "無条件で\nいつでもキャンセルできます";
+
+"Your video is successfully saved" = "あなたのビデオは保存しました";
+
+"Your image is successfully saved" = "あなたの画像は保存しました";
+
+"By tapping Continue, you are confirming that you reviewed and accepted our Terms Of Use and Privacy Policy." = "[続ける]をタップすると、利用規約とプライバシーポリシーを確認し、同意したことになります。";
+"Welcome" = "ようこそ";
+"Welcome!" = "ようこそ!";
+"Our app serves ads to help us\n provide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window.\n\nBy tapping Continue, you are\nconfirming that you reviewed and\naccepted our Terms Of Use and\nPrivacy Policy." = "[続ける] をタップすると利用規約およびプライバシーポリシーを確認し、同意したことになります。";
+"Accept" = "同意する";
+"More Info" = "詳細を見る";
+"Our app serves ads to help us\nprovide some content for free.\nIf you allow tracking, you\nwill see more personalized ads\ninstead of boring ads. Please tap\n“Allow for Tracking” in next window." = "弊社のアプリに広告を提示することに\nより、いくつかのコンテンツが\n無料になります。追跡を許可すると、\n退屈な広告ではなく、\n自分用にパーソナライズ化された広告\nを入れることができます。次の画面で\n「許可」をタップしてください。";
+
+// Bonus
+"CLAIM" = "集める";
+"Claim" = "集める";
+"Success!" = "成功!";
+"Bonus pack has been\nunlocked! Check it out at\nBonus section." = "ボーナスパックが/nアンロックされました。ボーナスセクションで/nチェックしてください";
+
+"You need to update notification permission, Go to Settings and choose to allow access to your location." = "通知権限を更新する必要があります。[設定]に移動し、通知の許可を選択してください";
+
+"Alert:" = "アラート：";
+
+"Open Setting" = "設定を開く";
+
+// Local Notification
+"Use the power of now!" = "💪 現在を使う";
+"It is perfect time to finish your" = "今すぐアートワークを完成させましょう!";
+
+"Sorry to see you go!" = "Sorry to see you go!";
+"\nWe’ll stop collecting your data\nin this game when you select “QUIT”.\nIf you change your mind,\nyou can continue playing at any time.\nNote: When you revisit the app,\nwe will ask for your consent once again." = "We’ll stop collecting your data in this game when you select “QUIT”.\n  If you change your mind, you can continue playing at any time.\n  Note: When you revisit the app, we will ask for your consent once again.";
+"QUIT" = "QUIT";
+
+//Paint Note
+"New Paint Bucket!" = "新しいペンキバケツ";
+"Feature can be turned" = "機能は設定";
+"off at Settings" = "で変更できます";
+
+//Settings
+
+"Paint Bucket" = "ペンキバケツ";
+"Extended" = "拡張";
+"Normal" = "通常";
+
+"It's time to relax" = "リラックスの時間です";
+"Get started" = "開始する";
+
+
+"Editor's Picks" = "エディターズ・ピック";
+"Explore" = "探検";
+"Recent" = "最近";
+"Journey" =  "旅";
+"Collections" = "コレクション";
+"Your journey to relexation begins here" = "禅の旅がここから始まる";
+"Start Trial" = "無料トライアルを開始";
+"Use the bomb to color\neverything around" = "爆弾を使って\nすべてを着色する";
+
+/*updated subscription */
+"Weekly" = "毎週分";
+"Monthly" = "毎月分";
+"Annual" = "毎年分";
+"Start Now" = "開始する";
+"Begin Now" = "開始する";
+
+"Weekly Subscription" = "毎週定期購入";
+"Monthly Subscription" = "毎月定期購入";
+"Yearly Subscription" = "年間定期購入";
+
+"Go!" = "行こう！";
+"Take me to New Category" = "「新着」ページに移動します";
+"Add New Category" = "新しいカテゴリを追加";
+
+"Get your daily mystery gift" = "毎日不思議な贈り物を手に入れよう!";
+"You got 15 Paint Buckets and 15 Hints!" = "15 個のペンキバケツ、15 個のヒントを手に入れた";
+"You got 10 Paint Buckets and 10 Hints!" = "10 個のペンキバケツ、10 個のヒントを手に入れた";
+"You got 5 Hints" = "ヒント5をゲットした";
+"You got 15 Hints" = "ヒント15をゲットした";
+"You got 10 Hints" = "ヒント10をゲットした";
+"NEW" = "新着";
+"You got 5 Paint Buckets" = "ペンキバケツを 5 つゲットしたよ";
+"You got 15 Paint Buckets" = "ペンキバケツを 15 つゲットしたよ";
+"You got 10 Paint Buckets" = "ペンキバケツを10個ゲットした";
+"You got 5 Paint Buckets" = "ペンキバケツを5個ゲットした";
+"You got a Booster" = "ペンキバケツ30個の\nブースターを受け取った";
+
+/* Explore Screen - View*/
+"All Collections" = "すべてのコレクション";
+"View All Collections" = "すべてのコレクション";
