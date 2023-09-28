@@ -2552,7 +2552,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                             
                         }
                         
-                        self.addColorForPath(rectanglePath: path, opacity: 1.0)
+//                        self.addColorForPath(rectanglePath: path, opacity: 1.0)
                         path.close()
                         
                         if(self.isColorCompleted(colorObj: selectedColorWithNumber))
