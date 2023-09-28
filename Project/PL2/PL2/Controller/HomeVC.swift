@@ -1571,6 +1571,9 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
             self.collectionColorView.reloadData()
             
+            for whiteColorPosition in whiteColorLocations {
+                prepareImageView(x: whiteColorPosition.x, y: whiteColorPosition.y, isWhiteImage: true)
+            }
             
             //  }
         }
