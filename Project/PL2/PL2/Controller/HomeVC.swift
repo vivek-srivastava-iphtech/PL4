@@ -1571,6 +1571,9 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
             self.collectionColorView.reloadData()
             
+            for whiteColorPosition in whiteColorLocations {
+                prepareImageView(x: whiteColorPosition.x, y: whiteColorPosition.y, isWhiteImage: true)
+            }
             
             //  }
         }
@@ -3101,6 +3104,23 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
         }
     }
+     
+    func prepareImageView(x: Double, y: Double, isWhiteImage: Bool) {
+          //image for whiote color grid
+          var yourImage: UIImage = UIImage(named: "canvas") ?? UIImage()
+          if !isWhiteImage {
+              //image for numbered grid
+              yourImage = UIImage(named: "yarn") ?? UIImage()
+          }
+          let pixelBoxFrame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
+          // Create a UIImageView for the fillImage
+          let imageView = UIImageView(frame: pixelBoxFrame)
+          imageView.image = yourImage
+          
+          // Add the UIImageView to your view or pixel box container
+          self.viewInDrawView!.addSubview(imageView)
+          
+      }
     
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
             let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
