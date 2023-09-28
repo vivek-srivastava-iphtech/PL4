@@ -1970,6 +1970,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
         }
     }
+    
     func fillWithOutBomb(x:Int, y:Int, isHold:Bool){
         if !(whiteColorLocations.contains(CGPoint(x: x, y: y))){
             let fillColor = imageColors[x/Int(squareWidth)][y/Int(squareWidth)]
@@ -2142,8 +2143,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                     // self.processThePoint(point: point, fillColor: fillColor)
                     
                     let wd = Int(squareWidth)
-                    
-                    let path = UIBezierPath()
+                
                     
                     /////////Devendra To Do  // if alrady fill no count should decrese  // shoaib 13-Dec
                     
@@ -2185,7 +2185,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                     }
                     while(self.coloredPoints.count > 0)
                     {
-                        
+                        let path = UIBezierPath()
                         let pVal = self.coloredPoints[0]
                         
                         let keyVal = keyForPoint(point: pVal)
@@ -2204,6 +2204,10 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                             path.addLine(to: CGPoint(x: (x + wd), y: y))
                             path.addLine(to: CGPoint(x: (x + wd), y: (y + wd)))
                             path.addLine(to: CGPoint(x: x, y: (y + wd)))
+                            
+                            path.addLine(to: CGPoint(x: x, y: y))
+                            addColorForPath(rectanglePath: path, opacity: 1.0, startPoint: pointV)
+                            path.close()
                             saveColorRecords(point: pointV, fillColor: fillColor)
                             //path.addLine(to: CGPoint(x: (x), y: (y - wd)))
                             
@@ -2239,10 +2243,6 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                         
                         
                     }
-                    
-                    
-                    self.addColorForPath(rectanglePath: path, opacity: 1.0)
-                    path.close()
                     
                     if(self.isColorCompleted(colorObj: selectedColorWithNumber))
                     {
@@ -2344,12 +2344,6 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                             // }
                         }
                         
-                    }else{
-                        if !checkPathComplete && !soundPlayed{
-                            playSound(soundName: m4)
-                            print("sound_m4")
-                            checkPathComplete = true
-                        }
                     }
                     
                     if isDrawingComplete(){
