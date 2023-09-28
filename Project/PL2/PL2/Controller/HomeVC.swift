@@ -3118,21 +3118,24 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
         // Create a UIImage with your desired image
         let image = UIImage(named: "yarn")
-       
+        let tintedImage = image?.withRenderingMode(.alwaysTemplate)
+        // Create a CALayer for the image
         let imageLayer = CALayer()
-        imageLayer.contents = image?.cgImage
+        imageLayer.contents = tintedImage?.cgImage
+        imageLayer.backgroundColor = selectedColorWithNumber.key.cgColor
         imageLayer.frame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
-       
         imageLayer.zoomInAnimation() {
             print("Animation Added")
         }
+        //        let bounceEffect = applyZoomBounceAnimation()
+        //        imageLayer.add(bounceEffect, forKey: "zoomBounce")
         
         let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
-        a.strokeColor = selectedColorWithNumber.key.cgColor
-        a.fillColor = selectedColorWithNumber.key.cgColor
+        a.strokeColor = UIColor.clear.cgColor
+        a.fillColor = UIColor.clear.cgColor
         a.opacity = opacity
         
         a.addSublayer(imageLayer)
