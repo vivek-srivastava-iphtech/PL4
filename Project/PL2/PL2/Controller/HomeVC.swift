@@ -3123,6 +3123,10 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
         imageLayer.contents = image?.cgImage
         imageLayer.frame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
        
+        imageLayer.zoomInAnimation() {
+            print("Animation Added")
+        }
+        
         let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
