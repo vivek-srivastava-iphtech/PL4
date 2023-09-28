@@ -3154,14 +3154,21 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
         self.colorImageDrawView?.layer.insertSublayer(a, at: UInt32(atIndex))
     }
     
-    func addColorForPath(rectanglePath:UIBezierPath, opacity:Float){
-        // let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
+    func addColorForPath(rectanglePath:UIBezierPath, opacity:Float, startPoint:CGPoint){
+        let image = UIImage(named: "yarn")
+        // Create a CALayer for the image
+        let imageLayer = CALayer()
+        imageLayer.contents = image?.cgImage
+        imageLayer.frame = CGRect(x: startPoint.x, y: startPoint.y, width: squareWidth, height: squareWidth)
+        
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
         a.strokeColor = selectedColorWithNumber.key.cgColor
         a.fillColor = selectedColorWithNumber.key.cgColor
         a.opacity = opacity
+        
+        a.addSublayer(imageLayer)
         
         var atIndex = 1
         if isPaintEnable
