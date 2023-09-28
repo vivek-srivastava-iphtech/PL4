@@ -6795,6 +6795,25 @@ extension UIColor {
     }
 }
 
+extension CALayer {
 
+    func zoomInAnimation(duration: TimeInterval = 0.3, scale: CGFloat = 1.0, completion: (() -> Void)? = nil) {
 
+        // Create a scale transform
+        let scaleTransform = CABasicAnimation(keyPath: "transform.scale")
+        scaleTransform.fromValue = 0.1
+        scaleTransform.toValue = scale
+        scaleTransform.duration = duration
+        scaleTransform.autoreverses = false
+        scaleTransform.repeatCount = 0
 
+        // Apply the animation to the layer
+        self.add(scaleTransform, forKey: "zoomInAnimation")
+
+        // Optionally call the completion block when the animation completes
+        DispatchQueue.main.asyncAfter(deadline: .now() + duration) { [weak self] in
+            // Reset the isAnimating flag to false
+            completion?()
+        }
+    }
+}
