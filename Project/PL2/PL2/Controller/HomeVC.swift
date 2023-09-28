@@ -3123,27 +3123,36 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
       }
     
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
-            let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
-            let a = CAShapeLayer()
-            a.path = rectanglePath.cgPath
-            a.lineWidth = 0
-            a.strokeColor = UIColor.clear.cgColor
-            a.fillColor = UIColor.clear.cgColor
-            a.opacity = opacity
-            
-            var atIndex = 1
-            if isPaintEnable
+        // Create a UIImage with your desired image
+        let image = UIImage(named: "yarn")
+       
+        let imageLayer = CALayer()
+        imageLayer.contents = image?.cgImage
+        imageLayer.frame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
+       
+        let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
+        let a = CAShapeLayer()
+        a.path = rectanglePath.cgPath
+        a.lineWidth = 0
+        a.strokeColor = selectedColorWithNumber.key.cgColor
+        a.fillColor = selectedColorWithNumber.key.cgColor
+        a.opacity = opacity
+        
+        a.addSublayer(imageLayer)
+        
+        var atIndex = 1
+        if isPaintEnable
+        {
+            if ((self.colorImageDrawView?.layer.sublayers?.count)  != nil)
             {
-                if ((self.colorImageDrawView?.layer.sublayers?.count)  != nil)
+                if ((self.colorImageDrawView?.layer.sublayers?.count)!  > 1)
                 {
-                    if ((self.colorImageDrawView?.layer.sublayers?.count)!  > 1)
-                    {
-                        atIndex = (self.colorImageDrawView?.layer.sublayers?.count)!
-                    }
+                    atIndex = (self.colorImageDrawView?.layer.sublayers?.count)!
                 }
             }
-            self.colorImageDrawView?.layer.insertSublayer(a, at: UInt32(atIndex))
         }
+        self.colorImageDrawView?.layer.insertSublayer(a, at: UInt32(atIndex))
+    }
     
     func addColorForPath(rectanglePath:UIBezierPath, opacity:Float){
         // let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
