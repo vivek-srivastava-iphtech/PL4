@@ -2363,12 +2363,12 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                 //print("p-x: %d p-y: %d",x,y)
                 let keyVal = keyForPoint(point: point)
                 if (capturedPoints[keyVal] == nil){
-                    if (colorImageDrawView?.layer.sublayers != nil  ){
-                        if let index =  colorImageDrawView?.layer.sublayers!.index(where: {(((($0 as! CAShapeLayer ).path?.boundingBox.origin)! == CGPoint(x:CGFloat(x), y: CGFloat(y))) && ((($0 as! CAShapeLayer ).path?.boundingBox.size)! ==  CGSize(width:squareWidth, height:squareWidth)))}){
-                            colorImageDrawView?.layer.sublayers!.remove(at: index)
-                        }
-                    }
-                    addColorLayer(x: CGFloat(x), y: CGFloat(y), opacity: 0.5)
+//                    if (colorImageDrawView?.layer.sublayers != nil  ){
+//                        if let index =  colorImageDrawView?.layer.sublayers!.index(where: {(((($0 as! CAShapeLayer ).path?.boundingBox.origin)! == CGPoint(x:CGFloat(x), y: CGFloat(y))) && ((($0 as! CAShapeLayer ).path?.boundingBox.size)! ==  CGSize(width:squareWidth, height:squareWidth)))}){
+//                            colorImageDrawView?.layer.sublayers!.remove(at: index)
+//                        }
+//                    }
+//                    addColorLayer(x: CGFloat(x), y: CGFloat(y), opacity: 0.5)
                 }
             }
         }
