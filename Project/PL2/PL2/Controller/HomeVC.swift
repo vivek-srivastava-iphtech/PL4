@@ -3157,7 +3157,9 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
         let imageLayer = CALayer()
         imageLayer.contents = image?.cgImage
         imageLayer.frame = CGRect(x: startPoint.x, y: startPoint.y, width: squareWidth, height: squareWidth)
-        
+        imageLayer.zoomInAnimation() {
+            print("Animation Added")
+        }
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
