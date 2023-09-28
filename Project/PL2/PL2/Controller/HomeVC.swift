@@ -1571,9 +1571,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             }
             self.collectionColorView.reloadData()
             
-            for whiteColorPosition in whiteColorLocations {
-                prepareImageView(x: whiteColorPosition.x, y: whiteColorPosition.y, isWhiteImage: true)
-            }
+            
             //  }
         }
     }
@@ -1920,23 +1918,7 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
 //        }
     }
     
-    func prepareImageView(x: Double, y: Double, isWhiteImage: Bool) {
-        //image for whiote color grid
-        var yourImage: UIImage = UIImage(named: "canvas") ?? UIImage()
-        if !isWhiteImage {
-            //image for numbered grid
-            yourImage = UIImage(named: "yarn") ?? UIImage()
-        }
-        let pixelBoxFrame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
-        // Create a UIImageView for the fillImage
-        let imageView = UIImageView(frame: pixelBoxFrame)
-        imageView.image = yourImage
-        
-        // Add the UIImageView to your view or pixel box container
-        self.viewInDrawView!.addSubview(imageView)
-        
-    }
-    
+ 
     func setProgressBarWithoutBomb() {
         if selectedIndex.item >= 0{
             let totalColorCount:Double = Double(sortedColorsOccurenceWithNumber[selectedIndex.item].value)
@@ -3121,17 +3103,6 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
     }
     
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
-            // Create a UIImage with your desired image
-            let image = UIImage(named: "yarn")
-            let tintedImage = image?.withRenderingMode(.alwaysTemplate)
-            // Create a CALayer for the image
-            let imageLayer = CALayer()
-            imageLayer.contents = tintedImage?.cgImage
-            imageLayer.backgroundColor = selectedColorWithNumber.key.cgColor
-            imageLayer.frame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
-            //        let bounceEffect = applyZoomBounceAnimation()
-            //        imageLayer.add(bounceEffect, forKey: "zoomBounce")
-            
             let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
             let a = CAShapeLayer()
             a.path = rectanglePath.cgPath
@@ -3139,8 +3110,6 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
             a.strokeColor = UIColor.clear.cgColor
             a.fillColor = UIColor.clear.cgColor
             a.opacity = opacity
-            
-            a.addSublayer(imageLayer)
             
             var atIndex = 1
             if isPaintEnable
