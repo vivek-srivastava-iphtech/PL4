@@ -2363,12 +2363,12 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
                 //print("p-x: %d p-y: %d",x,y)
                 let keyVal = keyForPoint(point: point)
                 if (capturedPoints[keyVal] == nil){
-                    if (colorImageDrawView?.layer.sublayers != nil  ){
-                        if let index =  colorImageDrawView?.layer.sublayers!.index(where: {(((($0 as! CAShapeLayer ).path?.boundingBox.origin)! == CGPoint(x:CGFloat(x), y: CGFloat(y))) && ((($0 as! CAShapeLayer ).path?.boundingBox.size)! ==  CGSize(width:squareWidth, height:squareWidth)))}){
-                            colorImageDrawView?.layer.sublayers!.remove(at: index)
-                        }
-                    }
-                    addColorLayer(x: CGFloat(x), y: CGFloat(y), opacity: 0.5)
+//                    if (colorImageDrawView?.layer.sublayers != nil  ){
+//                        if let index =  colorImageDrawView?.layer.sublayers!.index(where: {(((($0 as! CAShapeLayer ).path?.boundingBox.origin)! == CGPoint(x:CGFloat(x), y: CGFloat(y))) && ((($0 as! CAShapeLayer ).path?.boundingBox.size)! ==  CGSize(width:squareWidth, height:squareWidth)))}){
+//                            colorImageDrawView?.layer.sublayers!.remove(at: index)
+//                        }
+//                    }
+//                    addColorLayer(x: CGFloat(x), y: CGFloat(y), opacity: 0.5)
                 }
             }
         }
@@ -3118,17 +3118,24 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
     func addColorLayer(x:CGFloat, y:CGFloat, opacity:Float){
         // Create a UIImage with your desired image
         let image = UIImage(named: "yarn")
-       
+        let tintedImage = image?.withRenderingMode(.alwaysTemplate)
+        // Create a CALayer for the image
         let imageLayer = CALayer()
-        imageLayer.contents = image?.cgImage
+        imageLayer.contents = tintedImage?.cgImage
+        imageLayer.backgroundColor = selectedColorWithNumber.key.cgColor
         imageLayer.frame = CGRect(x: x, y: y, width: squareWidth, height: squareWidth)
-       
+        imageLayer.zoomInAnimation() {
+            print("Animation Added")
+        }
+        //        let bounceEffect = applyZoomBounceAnimation()
+        //        imageLayer.add(bounceEffect, forKey: "zoomBounce")
+        
         let rectanglePath = UIBezierPath(roundedRect: CGRect(x:x , y:y , width: squareWidth , height: squareWidth), cornerRadius: 0)
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
-        a.strokeColor = selectedColorWithNumber.key.cgColor
-        a.fillColor = selectedColorWithNumber.key.cgColor
+        a.strokeColor = UIColor.clear.cgColor
+        a.fillColor = UIColor.clear.cgColor
         a.opacity = opacity
         
         a.addSublayer(imageLayer)
@@ -3149,16 +3156,20 @@ class HomeVC: UIViewController , UICollectionViewDelegate, UICollectionViewDataS
     
     func addColorForPath(rectanglePath:UIBezierPath, opacity:Float, startPoint:CGPoint){
         let image = UIImage(named: "yarn")
+        let tintedImage = image?.withRenderingMode(.alwaysTemplate)
         // Create a CALayer for the image
         let imageLayer = CALayer()
-        imageLayer.contents = image?.cgImage
+        imageLayer.contents = tintedImage?.cgImage
+        imageLayer.backgroundColor = selectedColorWithNumber.key.cgColor
         imageLayer.frame = CGRect(x: startPoint.x, y: startPoint.y, width: squareWidth, height: squareWidth)
-        
+        imageLayer.zoomInAnimation() {
+            print("Animation Added")
+        }
         let a = CAShapeLayer()
         a.path = rectanglePath.cgPath
         a.lineWidth = 0
-        a.strokeColor = selectedColorWithNumber.key.cgColor
-        a.fillColor = selectedColorWithNumber.key.cgColor
+        a.strokeColor = UIColor.clear.cgColor
+        a.fillColor = UIColor.clear.cgColor
         a.opacity = opacity
         
         a.addSublayer(imageLayer)
@@ -6795,6 +6806,25 @@ extension UIColor {
     }
 }
 
+extension CALayer {
 
+    func zoomInAnimation(duration: TimeInterval = 0.3, scale: CGFloat = 1.0, completion: (() -> Void)? = nil) {
 
+        // Create a scale transform
+        let scaleTransform = CABasicAnimation(keyPath: "transform.scale")
+        scaleTransform.fromValue = 0.1
+        scaleTransform.toValue = scale
+        scaleTransform.duration = duration
+        scaleTransform.autoreverses = false
+        scaleTransform.repeatCount = 0
 
+        // Apply the animation to the layer
+        self.add(scaleTransform, forKey: "zoomInAnimation")
+
+        // Optionally call the completion block when the animation completes
+        DispatchQueue.main.asyncAfter(deadline: .now() + duration) { [weak self] in
+            // Reset the isAnimating flag to false
+            completion?()
+        }
+    }
+}
